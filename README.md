@@ -48,147 +48,109 @@
 
 **CONTENT** 
 
-**[Capítulo I: Presentación	6](#capítulo-i:-presentación)**
+[Capítulo I: Presentación](#capítulo-i-presentación)  
+[1.1 Startup Profile](#11-startup-profile)  
+[1.1.1 Descripción de la startup](#111-descripción-de-la-startup)  
+[1.1.2 Perfiles de integrantes de grupo](#112-perfiles-de-integrantes-de-grupo)  
+[1.2 Solution Profile](#12-solution-profile)  
+[1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)  
+[5 “W” s](#5-“w”-s)  
+[What](#what)  
+[When](#when)  
+[Where](#where)  
+[Who](#who)  
+[Why](#why)  
+[2 “H” s](#2-“h”-s)  
+[How](#how)  
+[How much](#how-much)  
+[1.2.2 Lean UX Process](#122-lean-ux-process)  
+[1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)  
+[1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)  
+[1.2.2.2.1 Resultados del usuario](#12221-resultados-del-usuario)  
+[1.2.2.2.2 Features](#12222-features)  
+[1.2.2.2.3 Business Outcomes](#12223-business-outcomes)  
+[1.2.2.2.4 User Benefits](#12224-user-benefits)  
+[1.2.2.2.5 ¿Quién es el usuario?](#12225-¿quién-es-el-usuario)  
+[1.2.2.2.6 ¿Dónde encaja nuestro producto en su trabajo o vida?](#12226-¿dónde-encaja-nuestro-producto-en-su-trabajo-o-vida)  
+[1.2.2.2.7 ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?](#12227-¿qué-problemas-tiene-nuestro-producto-y-cómo-se-pueden-resolver)  
+[1.2.2.2.8 ¿Cuándo y cómo es usado nuestro producto?](#12228-¿cuándo-y-cómo-es-usado-nuestro-producto)  
+[1.2.2.2.9 ¿Qué características son importantes?](#12229-¿qué-características-son-importantes)  
+[1.2.2.2.10 ¿Cómo debe verse nuestro producto y cómo debe comportarse?](#122210-¿cómo-debe-verse-nuestro-producto-y-cómo-debe-comportarse)  
+[1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)  
+[1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)  
+[1.3 Segmentos objetivo](#13-segmentos-objetivo)  
+
+[Capítulo II: Requirements Development and Software Solution Design](#capítulo-ii-requirements-development-and-software-solution-design)  
+[2.1 Competidores](#21-competidores)  
+[2.1.1 Análisis competitivo](#211-análisis-competitivo)  
+[2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)  
+[2.2 Entrevistas](#22-entrevistas)  
+[2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)  
+[2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)  
+[2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)  
+[2.3 Needfinding](#23-needfinding)  
+[2.3.1 User Personas](#231-user-personas)  
+[2.3.2 User Task Matrix](#232-user-task-matrix)  
+[2.3.3 User Journey Mapping](#233-user-journey-mapping)  
+[2.3.4 Empathy Mapping](#234-empathy-mapping)  
+[2.3.5 As-Is Scenario Mapping](#235-as-is-scenario-mapping)  
+[2.3.6 Ubiquitous Language](#236-ubiquitous-language)  
+[2.4 Requirements specification](#24-requirements-specification)  
+[2.4.1 To-Be Scenario Mapping](#241-to-be-scenario-mapping)  
+[2.4.2 User Stories](#242-user-stories)  
+[2.4.3 Impact Mapping](#243-impact-mapping)  
+[2.4.4 Product Backlog](#244-product-backlog)  
+[2.5 Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)  
+[2.5.1 EventStorming](#251-eventstorming)  
+[2.5.1.1 Candidate Context Discover](#2511-candidate-context-discover)  
+[2.5.1.2 Domain Message Flows Modeling](#2512-domain-message-flows-modeling)  
+[2.5.1.3 Bounded Context Canvases](#2513-bounded-context-canvases)  
+[2.5.2 Context Mapping](#252-context-mapping)  
+[2.5.3 Software Architecture](#253-software-architecture)  
+[2.5.3.1 Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)  
+[2.5.3.2 Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)  
+[2.5.3.3 Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)  
+[2.6 Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)  
+[2.6.1 Bounded Context: Gestión de Postulación](#261-bounded-context-gestión-de-postulación)  
+[2.6.1.1 Domain Layer](#2611-domain-layer)  
+[2.6.1.2 Interface Layer](#2612-interface-layer)  
+[2.6.1.3 Application Layer](#2613-application-layer)  
+[2.6.1.4 Infrastructure Layer](#2614-infrastructure-layer)  
+[2.6.1.5 Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)  
+[2.6.1.6 Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)  
+[2.6.1.6.1 Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)  
+[2.6.1.6.2 Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)  
+[2.6.2 Bounded Context: Gestión de Contacto de Postulación](#262-bounded-context-gestión-de-contacto-de-postulación)  
+[2.6.2.1 Domain Layer](#2621-domain-layer)  
+[2.6.2.2 Interface Layer](#2622-interface-layer)  
+[2.6.2.3 Application Layer](#2623-application-layer)  
+[2.6.2.4 Infrastructure Layer](#2624-infrastructure-layer)  
+[2.6.2.5 Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)  
+[2.6.2.6 Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)  
+[2.6.2.6.1 Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)  
+[2.6.2.6.2 Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)  
+[2.6.3 Bounded Context: Gestión de Métricas](#263-bounded-context-gestión-de-métricas)  
+[2.6.3.1 Domain Layer](#2631-domain-layer)  
+[2.6.3.2 Interface Layer](#2632-interface-layer)  
+[2.6.3.3 Application Layer](#2633-application-layer)  
+[2.6.3.4 Infrastructure Layer](#2634-infrastructure-layer)  
+[2.6.3.5 Bounded Context Software Architecture Component Level Diagrams](#2635-bounded-context-software-architecture-component-level-diagrams)  
+[2.6.3.6 Bounded Context Software Architecture Code Level Diagrams](#2636-bounded-context-software-architecture-code-level-diagrams)  
+[2.6.3.6.1 Bounded Context Domain Layer Class Diagrams](#26361-bounded-context-domain-layer-class-diagrams)  
+[2.6.3.6.2 Bounded Context Database Design Diagram](#26362-bounded-context-database-design-diagram)  
+[2.6.4 Bounded Context: Gestión del Perfil](#264-bounded-context-gestión-del-perfil)  
+[2.6.4.1 Domain Layer](#2641-domain-layer)  
+[2.6.4.2 Interface Layer](#2642-interface-layer)  
+[2.6.4.3 Application Layer](#2643-application-layer)  
+[2.6.4.4 Infrastructure Layer](#2644-infrastructure-layer)  
+[2.6.4.5 Bounded Context Software Architecture Component Level Diagrams](#2645-bounded-context-software-architecture-component-level-diagrams)  
+[2.6.4.6 Bounded Context Software Architecture Code Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)  
+[2.6.4.6.1 Bounded Context Domain Layer Class Diagrams](#26461-bounded-context-domain-layer-class-diagrams)  
+[2.6.4.6.2 Bounded Context Database Design Diagram](#26462-bounded-context-database-design-diagram)  
+
+[CONCLUSIONES Y RECOMENDACIONES](#conclusiones-y-recomendaciones)  
+[BIBLIOGRAFÍA](#bibliografía)  
 
-[**1.1.  Startup Profile	6**](#1.1.-startup-profile)
-
-[1.1.1. Descripción de la startup	6](#1.1.1.-descripción-de-la-startup)
-
-[1.1.2. Perfiles de integrantes de grupo	6](#heading=)
-
-[**1.2. Solution Profile	9**](#1.2.-solution-profile)
-
-[1.2.1. Antecedentes y problemática	9](#1.2.1.-antecedentes-y-problemática)
-
-[5 “W” s	10](#5-“w”-s)
-
-[What	10](#what)
-
-[When	11](#when)
-
-[Where	12](#where)
-
-[Who	13](#who)
-
-[Why	14](#why)
-
-[2 “H” s	15](#2-“h”-s)
-
-[How	15](#how)
-
-[How much	17](#how-much)
-
-[1.2.2. Lean UX Process	17](#1.2.2.-lean-ux-process)
-
-[1.2.2.1. Lean UX Problem Statements	18](#1.2.2.1.-lean-ux-problem-statements)
-
-[1.2.2.2. Lean UX Assumptions	18](#1.2.2.2.-lean-ux-assumptions)
-
-[1.2.2.2.1. Resultados del usuario	18](#1.2.2.2.1.-resultados-del-usuario)
-
-[1.2.2.2.2. Features	18](#1.2.2.2.2.-features)
-
-[1.2.2.2.3. Business Outcomes	19](#1.2.2.2.3.-business-outcomes)
-
-[1.2.2.2.4. User Benefits	19](#1.2.2.2.4.-user-benefits)
-
-[1.2.2.2.5. ¿Quién es el usuario?	19](#1.2.2.2.5.-¿quién-es-el-usuario?)
-
-[1.2.2.2.6. ¿Dónde encaja nuestro producto en su trabajo o vida?	20](#1.2.2.2.6.-¿dónde-encaja-nuestro-producto-en-su-trabajo-o-vida?)
-
-[1.2.2.2.7. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?	20](#1.2.2.2.7.-¿qué-problemas-tiene-nuestro-producto-y-cómo-se-pueden-resolver?)
-
-[1.2.2.2.8. ¿Cuándo y cómo es usado nuestro producto?	20](#1.2.2.2.8.-¿cuándo-y-cómo-es-usado-nuestro-producto?)
-
-[1.2.2.2.9. ¿Qué características son importantes?	20](#1.2.2.2.9.-¿qué-características-son-importantes?)
-
-[1.2.2.2.10. ¿Cómo debe verse nuestro producto y cómo debe comportarse?	21](#1.2.2.2.10.-¿cómo-debe-verse-nuestro-producto-y-cómo-debe-comportarse?)
-
-[1.2.2.3. Lean UX Hypothesis Statements	21](#1.2.2.3.-lean-ux-hypothesis-statements)
-
-[1.2.2.4. Lean UX Canvas	22](#1.2.2.4.-lean-ux-canvas)
-
-[**1.3. Segmentos objetivo	23**](#1.3.-segmentos-objetivo)
-
-[**Capítulo II: Requirements Development and Software Solution Design	25**](#capítulo-ii:-requirements-development-and-software-solution-design)
-
-[**2.1. Competidores	25**](#2.1.-competidores)
-
-[2.1.1. Análisis competitivo	25](#2.1.1.-análisis-competitivo)
-
-[2.1.2. Estrategias y tácticas frente a competidores	28](#2.1.2.-estrategias-y-tácticas-frente-a-competidores)
-
-[**2.2. Entrevistas	29**](#2.2.-entrevistas)
-
-[2.2.1. Diseño de entrevistas	29](#2.2.1.-diseño-de-entrevistas)
-
-[2.2.2. Registro de entrevistas	30](#2.2.2.-registro-de-entrevistas)
-
-[2.2.3. Análisis de entrevistas	35](#2.2.3.-análisis-de-entrevistas)
-
-[**2.3. Needfinding	37**](#2.3.-needfinding)
-
-[2.3.1. User Personas	38](#2.3.1.-user-personas)
-
-[2.3.2. User Task Matrix	40](#2.3.2.-user-task-matrix)
-
-[2.3.3. User Journey Mapping	42](#2.3.3.-user-journey-mapping)
-
-[2.3.4. Empathy Mapping	44](#2.3.4.-empathy-mapping)
-
-[2.3.5. As-Is Scenario Mapping	45](#2.3.5.-as-is-scenario-mapping)
-
-[2.3.6. Ubiquitous Language	47](#2.3.6.-ubiquitous-language)
-
-[2.4. Requirements specification	48](#2.4.-requirements-specification)
-
-[2.4.1 To-Be Scenario Mapping	48](#2.4.1-to-be-scenario-mapping)
-
-[2.4.2. User Stories	49](#2.4.2.-user-stories)
-
-[2.4.3. Impact Mapping	64](#2.4.3.-impact-mapping)
-
-[2.4.4. Product Backlog	64](#2.4.4.-product-backlog)
-
-[2.5. Strategic-Level Domain-Driven Design	73](#2.5.-strategic-level-domain-driven-design)
-
-[2.5.1. EventStorming	73](#2.5.1.-eventstorming)
-
-[2.5.1.1. Candidate Context Discover	73](#2.5.1.1.-candidate-context-discover)
-
-[2.5.1.2. Domain Message Flows Modeling	73](#2.5.1.2.-domain-message-flows-modeling)
-
-[2.5.1.3. Bounded Context Canvases	73](#2.5.1.3.-bounded-context-canvases)
-
-[2.5.2. Context Mapping	74](#2.5.2.-context-mapping)
-
-[2.5.3. Software Architecture	74](#2.5.3.-software-architecture)
-
-[2.5.3.1. Software Architecture Context Level Diagrams	74](#2.5.3.1.-software-architecture-context-level-diagrams)
-
-[2.5.3.2. Software Architecture Container Level Diagrams	74](#2.5.3.2.-software-architecture-container-level-diagrams)
-
-[2.5.3.3. Software Architecture Deployment Diagrams	74](#2.5.3.3.-software-architecture-deployment-diagrams)
-
-[2.6. Tactical-Level Domain-Driven Design	74](#2.6.-tactical-level-domain-driven-design)
-
-[2.6.X. Bounded Context: \<Bounded Context Name\>	74](#2.6.1.-bounded-context:-gestión-de-postulación)
-
-[2.6.X.1. Domain Layer	74](#2.6.1.1.-domain-layer)
-
-[2.6.X.2. Interface Layer	74](#2.6.1.2.-interface-layer)
-
-[2.6.X.3. Application Layer	74](#2.6.1.3.-application-layer)
-
-[2.6.X.4. Infrastructure Layer	74](#2.6.1.4.-infrastructure-layer)
-
-[2.6.X.5. Bounded Context Software Architecture Component Level Diagrams	75](#2.6.1.5.-bounded-context-software-architecture-component-level-diagrams)
-
-[2.6.X.6. Bounded Context Software Architecture Code Level Diagrams	75](#2.6.1.6.-bounded-context-software-architecture-code-level-diagrams)
-
-[2.6.X.6.1. Bounded Context Domain Layer Class Diagrams	75](#2.6.1.6.1.-bounded-context-domain-layer-class-diagrams)
-
-[2.6.x.6.2. Bounded Context Database Design Diagram	75](#2.6.1.6.2.-bounded-context-database-design-diagram)
 
 # **STUDENT OUTCOME**
 
@@ -2149,6 +2111,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
