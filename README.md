@@ -220,23 +220,23 @@ Ser la startup referente en Latinoamérica en el desarrollo de soluciones tecnol
 
 ### **1.1.2. Perfiles de integrantes de grupo**
 
-|  | Rodríguez Villa, Elvia Marcela U20231C784 | Ingeniería de Software |
-| :---- | ----- | :---: |
-|  | Soy estudiante de Ingeniería de Software en Perú, con formación sólida en el desarrollo de proyectos centrados en datos, inteligencia artificial y aprendizaje automático. Mi enfoque combina excelencia académica con la aplicación práctica de nuevas tecnologías en data y desarrollo. |  |
-
-| ![Sack](Images/1.jpg) | Cárdenas Concha, Santiago Iván U202311207 | Ingeniería de Software |
+| ![](Images/1.jpg) | Cárdenas Concha, Santiago Iván U202311207 | Ingeniería de Software |
 | :---- | ----- | :---: |
 |  | Mi nombre es Santiago Cárdenas tengo 19 años y soy estudiante de la carrera de ingeniería de software. Soy responsable, amigable, trato de caer bien a la gente que me rodea, y siempre trato de sorprender a las personas. |  |
 
-|  | Rodríguez Rodríguez, Luis Piero U202311334 | Ingeniería de Software |
+| ![](Images/2.jpg) | Rodríguez Rodríguez, Luis Piero U202311334 | Ingeniería de Software |
 | :---: | :---: | :---: |
 |  | Mi nombre es Luis Rodríguez, tengo 19 años y estoy en el sexto ciclo de la carrera de ingeniería de software en la UPC. Me considero una persona sociable y empática, en mis ratos libres me gusta escuchar música y salir a pasear. |  |
 
-| ![][image2] | Román Pajuelo, Luis Gustavo U202123373 | Ingeniería de Software |
+| ![](Images/3.jpg) | Román Pajuelo, Luis Gustavo U202123373 | Ingeniería de Software |
 | :---- | ----- | :---: |
 |  | Mi nombre es Luis Gustavo Román, soy estudiante de Ingeniería de Software de la UPC. Me caracterizo por ser una persona persistente en cumplir sus objetivos. |  |
 
-|  | Suárez Romero, Santiago Manuel U202311532 | Ingeniería de Software |
+| ![](Images/4.jpg) | Rodríguez Villa, Elvia Marcela U20231C784 | Ingeniería de Software |
+| :---- | ----- | :---: |
+|  | Soy estudiante de Ingeniería de Software en Perú, con formación sólida en el desarrollo de proyectos centrados en datos, inteligencia artificial y aprendizaje automático. Mi enfoque combina excelencia académica con la aplicación práctica de nuevas tecnologías en data y desarrollo. |  |
+
+| ![](Images/5.jpg) | Suárez Romero, Santiago Manuel U202311532 | Ingeniería de Software |
 | :---: | :---: | :---: |
 |  | Soy de la carrera de ingeniería de software. Mis cualidades son ser creativo, trabajar en grupo, me adapto a diferentes entornos. Además, siempre trato de apoyar con los conocimientos que he aprendido a lo largo de mi vida y siempre trato de aprender algo nuevo. |  |
 
@@ -397,11 +397,12 @@ LookUp podrá ser usado diariamente, en momentos después de haber postulado a u
 5. Creemos que, al ofrecer una aplicación intuitiva, accesible y optimizada para móviles, aumentaremos la adopción y el uso constante de LookUp en la rutina de búsqueda laboral.  
    Sabremos que esto es cierto cuando el 75% de los usuarios utilicen la app al menos 3 veces por semana durante el primer mes y el 50% exprese mayor satisfacción en comparación con otras plataformas similares.
 
-   
 
 #### **1.2.2.4. Lean UX Canvas** {#1.2.2.4.-lean-ux-canvas}
 
-![][image3]
+<p align="center">
+  <img src="Images/6.jpg" alt="imagen" />
+</p>
 
 Link del Lean UX Canvas: [https://docs.google.com/presentation/d/1ZuQGHHF-bz5lqgT6a14uyj3nKRctpDh4E8dbKhN6guM/edit?usp=sharing](https://docs.google.com/presentation/d/1ZuQGHHF-bz5lqgT6a14uyj3nKRctpDh4E8dbKhN6guM/edit?usp=sharing)
 
@@ -503,7 +504,7 @@ En el ámbito de la gestión del desempeño laboral y recursos humanos, existen 
 | ----- | :---- | ----- | ----- | ----- | ----- |
 | ¿Por qué realizar este análisis? |  | Llevar a cabo este análisis resulta fundamental, ya que nos brinda una comprensión profunda del panorama competitivo al que se enfrenta LookUp. Nos permite identificar tanto los riesgos como las posibilidades de crecimiento dentro del mercado, y reconocer en qué aspectos podemos diferenciarnos de otras propuestas similares. Asimismo, facilita el reconocimiento de nuestras ventajas y limitaciones frente a la competencia, lo que contribuye a una toma de decisiones estratégicas más informada y enfocada. |  |  |  |
 | Nombre |  | LookUp | LinkedIn | Universia | Computrabajo |
-| Logo |  | ![][image4] | ![][image5] | ![][image6] | ![][image7] |
+| Logo |  | ![](Images/7.jpg) | ![](Images/8.jpg) | ![](Images/9.jpg) | ![](Images/10.jpg) |
 | Perfil | Overview | Aplicación móvil y web para organizar, dar seguimiento y medir postulaciones laborales, con enfoque en estudiantes, recién egresados y profesionales en transición laboral. | Red social profesional global que integra búsqueda de empleo, networking y marca personal. | Plataforma dirigida a estudiantes y recién egresados que conecta universidades con empresas para prácticas y primeros empleos. | Portal de empleo masivo en Perú con amplia base de vacantes en múltiples sectores. |
 |  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Gestión integral de postulaciones con historial y documentos centralizados en una interfaz intuitiva. | Networking profesional, visibilidad de marca personal y gran alcance de empresas a nivel global. | Especialización en el segmento joven (universitarios), con oportunidades adaptadas a sus primeras experiencias. | Alto volumen de ofertas laborales locales y facilidad de postulación directa desde la web o app. |
 | Plan de marketing | Mercado objetivo | Estudiantes, recién egresados y profesionales en transición laboral en Perú. | Profesionales y empresas de todos los niveles y sectores a nivel global. | Universitarios y recién egresados, especialmente en búsqueda de prácticas preprofesionales. | Postulantes en general, desde puestos operativos hasta mandos medios, en el mercado peruano. |
@@ -583,7 +584,9 @@ Luego de realizar un análisis de los usuarios, se decidió formar dos segmentos
 
 **Segmento objetivo \#1: Estudiantes y recién egresados en búsqueda de prácticas**
 
-![][image8]
+<p align="center">
+  <img src="Images/11.jpg" alt="imagen" />
+</p>
 
 Nombre: Matthew Roca
 
@@ -601,7 +604,9 @@ Durante la conversación,  se le preguntó a Matthew sobre su experiencia tratan
 
 Matthew opina que LookUp sería muy útil, ya que mejoraría el proceso de búsqueda y postulación a diferentes trabajos de empresas, ahorrando tiempo, almacenando información clave con estadísticas y recibiendo feedback de lo que puede mejorar para así asegurarse poder  tener más oportunidad de encontrar trabajo.
 
-![][image9]
+<p align="center">
+  <img src="Images/12.jpg" alt="imagen" />
+</p>
 
 Nombre: Paula Luyo  
 **Ocupación:** Estudiante de Derecho  
@@ -613,7 +618,9 @@ Resumen: En la entrevista, Santiago Suárez conversa con Paula Luyo, estudiante 
 
 Paula considera que una aplicación como LookUp sería de gran ayuda, ya que le permitiría tener sus CVs listos para enviar en cualquier momento y acceder a recomendaciones de empresas que se ajusten a sus intereses. Además, destaca que le gustaría que la aplicación ofrezca notificaciones frecuentes sobre el estado de sus postulaciones, con etapas claras como “recibido”, “en proceso”, “visto” o “rechazado”, lo cual le daría mayor seguridad y transparencia en el seguimiento de cada oportunidad laboral.
 
-![][image10]
+<p align="center">
+  <img src="Images/13.jpg" alt="imagen" />
+</p>
 
 Nombre: Maylhy Gutierrez   
 **Ocupación:** Estudiante de Ingeniería Industrial  
@@ -626,7 +633,9 @@ Maylhy considera que una aplicación como LookUp sería muy útil porque le perm
 
 **Segmento objetivo \#2: Profesionales en transición laboral**
 
-**![][image11]**
+<p align="center">
+  <img src="Images/14.jpg" alt="imagen" />
+</p>
 
 **Nombre:** Ernesto Rodas
 
@@ -646,7 +655,9 @@ Entre sus principales retos menciona el manejo de documentos y la poca retroalim
 
 Finalmente, señala que una herramienta como LookUp le sería muy útil para centralizar postulaciones y feedback, dándole mayor organización y confianza en su transición laboral.
 
-![][image12]
+<p align="center">
+  <img src="Images/15.jpg" alt="imagen" />
+</p>
 
 **Nombre:** Sebastian Rodriguez
 
@@ -666,7 +677,9 @@ El mayor reto que enfrenta es manejar el volumen de procesos abiertos, mantener 
 
 Sebastián considera muy valioso contar con un panel visual que muestre su progreso y le dé claridad en su transición laboral. Afirma que sí usaría una aplicación como LookUp, ya que le ahorraría tiempo, le daría organización y reduciría el estrés en su búsqueda de empleo.
 
-![][image13]
+<p align="center">
+  <img src="Images/16.jpg" alt="imagen" />
+</p>
 
 **Nombre:** Valieri Colan
 
@@ -688,7 +701,9 @@ Finalmente, considera que un panel visual sería muy útil para evaluar en qué 
 
 **Segmento objetivo \#3: Personas sin estudios completos que buscan empleo**
 
-![][image14]
+<p align="center">
+  <img src="Images/17.jpg" alt="imagen" />
+</p>
 
 **Nombre:** Abel Rojas
 
@@ -708,7 +723,9 @@ Abel señaló que le gustaría poder visualizar de forma organizada las empresas
 
 Finalmente, indicó que sí usaría una aplicación como LookUp, ya que centralizaría su información, le daría orden y le permitiría mejorar su rendimiento en la búsqueda laboral.
 
-![][image15]
+<p align="center">
+  <img src="Images/18.jpg" alt="imagen" />
+</p>
 
 **Nombre:** Samarah Troya
 
@@ -728,7 +745,9 @@ Samara destacó que sería útil contar con un calendario integrado que organice
 
 Concluyó afirmando que sí usaría LookUp, ya que le permitiría centralizar postulaciones, documentos y feedback en un solo lugar. Considera que una herramienta de este tipo facilitaría su búsqueda laboral y reduciría el riesgo de perder oportunidades por desorganización.
 
-![][image16]
+<p align="center">
+  <img src="Images/19.jpg" alt="imagen" />
+</p>
 
 **Nombre:** Fabrizio Huamaní
 
@@ -851,15 +870,21 @@ Se presentarán los user persona por cada segmento objetivo. Estos son arquetipo
 
 **Segmento objetivo \#1: Estudiantes y recién egresados en búsqueda de prácticas**
 
-![][image17]
+<p align="center">
+  <img src="Images/20.jpg" alt="imagen" />
+</p>
 
 **Segmento objetivo \#2: Profesionales en transición laboral**
 
-**![][image18]**
+<p align="center">
+  <img src="Images/21.jpg" alt="imagen" />
+</p>
 
 **Segmento objetivo \#3: Personas sin estudios completos que buscan empleo**
 
-![][image19]
+<p align="center">
+  <img src="Images/22.jpg" alt="imagen" />
+</p>
 
 ### **2.3.2. User Task Matrix** {#2.3.2.-user-task-matrix}
 
@@ -933,15 +958,21 @@ Se presentarán los user persona por cada segmento objetivo. Estos son arquetipo
 
 **Segmento objetivo \#1: Estudiantes y recién egresados en búsqueda de prácticas (María Torres):**
 
-**![][image20]**
+<p align="center">
+  <img src="Images/23.jpg" alt="imagen" />
+</p>
 
 **Segmento objetivo \#2: Profesionales en transición laboral (Carlos Ramírez):**
 
-![][image21]
+<p align="center">
+  <img src="Images/24.jpg" alt="imagen" />
+</p>
 
 **Segmento objetivo \#3: Personas sin estudios completos que buscan empleo (José Ramírez):**
 
-![][image22]
+<p align="center">
+  <img src="Images/25.jpg" alt="imagen" />
+</p>
 
 ### **2.3.5. As-Is Scenario Mapping** {#2.3.5.-as-is-scenario-mapping}
 
@@ -1399,7 +1430,9 @@ Se presentarán los user persona por cada segmento objetivo. Estos son arquetipo
 
 ### **2.4.3. Impact Mapping** {#2.4.3.-impact-mapping}
 
-![][image23]
+<p align="center">
+  <img src="Images/26.jpg" alt="imagen" />
+</p>
 
 ### **2.4.4. Product Backlog** {#2.4.4.-product-backlog}
 
@@ -1463,18 +1496,28 @@ En esta fase identificamos los bounded contexts que conforman el dominio princip
 Los bounded contexts definidos son:
 
 1. Gestión de Postulación: permite registrar nuevas postulaciones indicando empresa, puesto, fecha y estado; actualizar el estado de cada postulación (pendiente, en revisión, entrevista, oferta o rechazo) y visualizar una línea de tiempo con las fechas clave del proceso (envíos, entrevistas, feedback).  
-   ![][image24]  
+
+<p align="center">
+  <img src="Images/27.jpg" alt="imagen" />
+</p>
+
 2. Gestión de Contacto de Postulación: concentra la comunicación entre la empresa y el postulante. Incluye el historial de interacciones de cada postulación y la posibilidad de que la empresa envíe feedback directamente al postulante dentro de la plataforma, ya sea mediante notificaciones o mensajes con motivos de rechazo o aceptación.
 
-![][image25]
+<p align="center">
+  <img src="Images/28.jpg" alt="imagen" />
+</p>
 
 3. Gestión de Métricas: genera información estadística sobre el proceso del postulante, como el número de postulaciones realizadas, entrevistas obtenidas, rechazos recibidos y ofertas logradas. También calcula la tasa de conversión entre postulaciones y resultados, e incorpora elementos de gamificación como logros, insignias y progreso para motivar al usuario.
 
-![][image26]
+<p align="center">
+  <img src="Images/29.jpg" alt="imagen" />
+</p>
 
 4. Gestión de Perfil: administra la información personal y profesional de los usuarios, diferenciando entre el rol de Postulante (usuario principal que busca empleo) y Empresa (que publica puestos y contacta candidatos). Además, incluye preferencias de configuración, historial general de actividad y actualización de datos.
 
-   ![][image27]
+<p align="center">
+  <img src="Images/30.jpg" alt="imagen" />
+</p>
 
 Estos bounded contexts fueron seleccionados porque permiten dividir el dominio en módulos claros y manejables, lo que facilita el modelado de eventos, la definición de responsabilidades y la posterior implementación de una arquitectura modular y escalable para LookUp.
 
@@ -1486,25 +1529,33 @@ En esta sección se modelan los Domain Message Flows con el propósito de mostra
 
 **Escenario 1: Creación de una nueva postulación:**
 
-**![][image28]**
+<p align="center">
+  <img src="Images/31.jpg" alt="imagen" />
+</p>
 
 El postulante inicia el proceso enviando un comando para crear una nueva postulación, indicando el puesto al que desea aplicar. El contexto de Gestión de Postulación valida que no existan duplicados en el mismo día y registra la postulación con estado inicial “Pendiente”. Como parte del proceso, se emite un evento que refleja la creación de la postulación y otro que registra un hito en la línea de tiempo (“Postulación enviada”). Estos eventos son consumidos por el contexto de Gestión de Métricas, que aplica una política para incrementar el contador total de postulaciones y recalcula la tasa de éxito, notificando al sistema mediante un evento de métricas actualizadas.
 
 **Escenario 2: Empresa cambia estado de una postulación:**
 
-![][image29]
+<p align="center">
+  <img src="Images/32.jpg" alt="imagen" />
+</p>
 
 Cuando la empresa actualiza el estado de una postulación (por ejemplo, “En revisión”, “Entrevista”, “Exito” o “Rechazo”), se envía un comando al contexto de Gestión de Postulación, el cual valida que la transición de estado sea válida. Tras esta validación, se genera un evento que notifica el nuevo estado y se registra un hito en la línea de tiempo. A partir de este evento, el contexto de Gestión de Contacto ejecuta una política que genera el feedback adecuado para el postulante (motivo de rechazo, aceptación, próximos pasos). Paralelamente, el contexto de Gestión de Métricas ajusta los contadores correspondientes (entrevistas, ofertas o rechazos) y recalcula la tasa de conversión, emitiendo un evento con las métricas actualizadas.
 
 **Escenario 3: Empresa envía feedback y postulante consulta historial:**
 
-![][image30]
+<p align="center">
+  <img src="Images/33.jpg" alt="imagen" />
+</p>
 
 La empresa envía feedback sobre una postulación mediante un comando dirigido al contexto de Gestión de Contacto de Postulación. Este aplica políticas de validación (por ejemplo, exigir un motivo si el feedback es de tipo rechazo y normalizar el contenido del mensaje), y posteriormente emite un evento registrando el feedback junto con la actualización del historial de contacto. Más tarde, cuando el postulante solicita consultar su historial, el mismo contexto responde mostrando los mensajes y actualizaciones disponibles, lo que asegura que toda interacción con la empresa quede registrada de forma transparente y accesible para el usuario.
 
 **Escenario 4: Postulante consulta métricas y obtiene logros:**
 
-![][image31]
+<p align="center">
+  <img src="Images/34.jpg" alt="imagen" />
+</p>
 
 Al acceder a su panel, el postulante envía un comando al contexto de Gestión de Métricas para consultar sus indicadores. El sistema responde con un evento que contiene el resumen de sus métricas acumuladas (postulaciones, entrevistas, ofertas, rechazos y tasa de éxito). Como parte del flujo, se ejecuta una política que evalúa logros en base a umbrales definidos (por ejemplo, “Primera entrevista” o “10 postulaciones”), lo que puede derivar en la generación de un nuevo evento que otorga un logro al usuario. Finalmente, este logro puede ser comunicado al postulante a través de una notificación gestionada por el contexto de Gestión de Contacto, fortaleciendo la motivación y la gamificación de la plataforma.
 
@@ -1516,49 +1567,67 @@ Link del miro: [https://miro.com/welcomeonboard/ZktBb21lM2h4cmppOTlodmVVS05OWlRN
 
 1. Gestión de Postulación
 
-   ![][image32]
+<p align="center">
+  <img src="Images/35.jpg" alt="imagen" />
+</p>
 
 2. Gestión de Contacto de Postulación
 
-   ![][image33]
+<p align="center">
+  <img src="Images/36.jpg" alt="imagen" />
+</p>
 
 3. Gestión de Métricas
 
-   ![][image34]
+<p align="center">
+  <img src="Images/37.jpg" alt="imagen" />
+</p>
 
 4. Gestión de Perfil
 
-   ![][image35]
+<p align="center">
+  <img src="Images/38.jpg" alt="imagen" />
+</p>
 
 ### **2.5.2. Context Mapping** {#2.5.2.-context-mapping}
 
 **Bounded Context de Perfil → Bounded Context de Postulación:**
 
-![][image36]
+<p align="center">
+  <img src="Images/39.jpg" alt="imagen" />
+</p>
 
 El bounded context de Perfil actúa como Upstream para el bounded context de Postulación (Downstream), ya que únicamente tras la creación y validación de un perfil (postulante o empresa) se pueden registrar postulaciones o publicar puestos. Esta integración sigue un patrón Conformist, puesto que Postulación depende de la información que provee Perfil (identidad y datos básicos) sin generar modificaciones en el sentido inverso. De esta manera, Perfil asegura que solo usuarios registrados y con información válida puedan interactuar en los procesos de postulación.
 
 **Bounded Context de Postulación → Bounded Context de Métricas:**
 
-![][image37]
+<p align="center">
+  <img src="Images/40.jpg" alt="imagen" />
+</p>
 
 El bounded context de Postulación es Upstream respecto al bounded context de Métricas (Downstream), dado que cada evento asociado al ciclo de vida de una postulación (creación, cambio de estado o eliminación) es consumido por Métricas para actualizar indicadores y logros. La relación presenta un patrón de Cliente/Proveedor, donde Métricas (cliente) depende de la información de Postulación (proveedor) para ofrecer al usuario estadísticas confiables sobre su avance en el proceso de búsqueda de empleo.
 
 **Bounded Context de Postulación → Bounded Context de Contacto de Postulación:**
 
-![][image38]
+<p align="center">
+  <img src="Images/41.jpg" alt="imagen" />
+</p>
 
 El bounded context de Postulación funciona como Upstream para el bounded context de Contacto de Postulación (Downstream), ya que los cambios de estado de una postulación (pendiente, entrevista, oferta, rechazo) detonan comunicaciones entre empresa y postulante. El patrón aplicado es Conformist, debido a que Contacto se ajusta al modelo de eventos de Postulación para garantizar que los mensajes transmitidos reflejen fielmente la evolución del proceso. Esta relación asegura coherencia entre la gestión interna de las postulaciones y las notificaciones que recibe el usuario.
 
 **Bounded Context de Perfil → Bounded Context de Contacto de Postulación:**
 
-![][image39]
+<p align="center">
+  <img src="Images/42.jpg" alt="imagen" />
+</p>
 
 El bounded context de Perfil se conecta como Upstream al bounded context de Contacto de Postulación (Downstream), ya que los datos de contacto almacenados en el perfil (correo, teléfono, preferencias de comunicación) son imprescindibles para que el módulo de Contacto pueda enviar mensajes efectivos al postulante. Se trata de un patrón Conformist, pues Contacto consume y respeta los datos que Perfil administra, sin requerir modificaciones sobre el modelo original. Esta relación garantiza que las interacciones empresa–usuario se realicen a través de los canales correctos y actualizados.
 
 **Bounded Context de Perfil → Bounded Context de Métricas:**
 
-![][image40]
+<p align="center">
+  <img src="Images/43.jpg" alt="imagen" />
+</p>
 
 El bounded context de Perfil actúa como Upstream para el bounded context de Métricas (Downstream), ya que todo registro de métricas debe asociarse a un perfil válido de postulante. La relación se da bajo un patrón Conformist, porque Métricas consume la información de Perfil (identificadores y atributos de usuario) para vincular correctamente los indicadores, sin necesidad de imponer cambios sobre el modelo de origen. Esto garantiza que los datos estadísticos siempre estén ligados a una identidad consistente dentro del sistema.
 
@@ -1570,19 +1639,25 @@ Para el diseño de la arquitectura de software de LookUp, se ha optado por el us
 
 El Context Diagram muestra a LookUp (el sistema central) interactuando con sus usuarios principales —el Postulante y la Empresa— quienes utilizan la aplicación para registrar postulaciones, publicar puestos, dar seguimiento al proceso y mantener la comunicación entre ambas partes. Este diagrama enfatiza las relaciones externas del sistema, sin entrar en los detalles de los bounded contexts internos, destacando cómo los actores clave (usuarios) se conectan con la plataforma principal para organizar información, recibir feedback y visualizar métricas de progreso en su búsqueda laboral.
 
-![][image41]
+<p align="center">
+  <img src="Images/44.jpg" alt="imagen" />
+</p>
 
 #### **2.5.3.2. Software Architecture Container Level Diagrams** {#2.5.3.2.-software-architecture-container-level-diagrams}
 
 El Container Diagram describe la arquitectura del sistema, donde los usuarios principales —Postulante y Empresa— interactúan con la Web App y la Mobile App, las cuales se conectan a una API REST (backend) que gestiona la lógica de negocio asociada a la gestión de postulaciones, contactos, métricas y perfiles. Esta API se comunica con una base de datos PostgreSQL para almacenar y consultar información relevante. Cada componente (frontend web, frontend móvil, backend y base de datos) opera en contenedores o entornos independientes, conectados a través de APIs RESTful (HTTPS/JSON) y protocolos como JDBC (PostgreSQL).
 
-![][image42]
+<p align="center">
+  <img src="Images/45.jpg" alt="imagen" />
+</p>
 
 #### **2.5.3.3. Software Architecture Deployment Diagrams** {#2.5.3.3.-software-architecture-deployment-diagrams}
 
 El diagrama de despliegue muestra como el software interactua con los servicios cloud necesarios para el servicio de backend y el servicio de base de datos. 
 
-![][image43]
+<p align="center">
+  <img src="Images/46.jpg" alt="imagen" />
+</p>
 
 ## 2.6. Tactical-Level Domain-Driven Design {#2.6.-tactical-level-domain-driven-design}
 
@@ -1677,15 +1752,25 @@ El diagrama de despliegue muestra como el software interactua con los servicios 
 
 #### **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams** {#2.6.1.5.-bounded-context-software-architecture-component-level-diagrams}
 
+<p align="center">
+  <img src="Images/47.jpg" alt="imagen" />
+</p>
+
+El diagrama se organiza así porque sigue los principios de arquitectura limpia: los controllers reciben las solicitudes externas, los handlers orquestan los casos de uso, los repositories definen contratos de persistencia en el dominio y sus implementaciones en infraestructura se conectan con MySQL. De esta forma, el dominio queda independiente de la tecnología, con responsabilidades claras y flexibilidad para cambiar bases de datos o interfaces sin afectar la lógica de negocio.
+
 #### **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams** {#2.6.1.6.-bounded-context-software-architecture-code-level-diagrams}
 
 ##### **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams** {#2.6.1.6.1.-bounded-context-domain-layer-class-diagrams}
 
-![][image44]
+<p align="center">
+  <img src="Images/48.jpg" alt="imagen" />
+</p>
 
 ##### **2.6.1.6.2. Bounded Context Database Design Diagram** {#2.6.1.6.2.-bounded-context-database-design-diagram}
 
-![][image45]
+<p align="center">
+  <img src="Images/49.jpg" alt="imagen" />
+</p>
 
 ### **2.6.2. Bounded Context: Gestión de Contacto de Postulación**
 
@@ -1735,7 +1820,9 @@ El diagrama de despliegue muestra como el software interactua con los servicios 
 
 #### **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
 
-![][image46]
+<p align="center">
+  <img src="Images/50.jpg" alt="imagen" />
+</p>
 
 El diagrama de componentes de Gestión de Contacto de Postulación muestra cómo se organiza la arquitectura en capas siguiendo DDD: la Interface Layer expone endpoints REST mediante el ContactoController, la Application Layer orquesta la lógica con los command handlers EnviarFeedbackCommandHandler y ActualizarEstadoContactoHandler, la Domain Layer concentra las reglas de negocio a través de la entidad ContactoPostulación, el value object Feedback y el agregado ContactoAggregate, y la Infrastructure Layer implementa la persistencia con ContactoRepository conectado a MySQL. De esta manera, se asegura una separación clara de responsabilidades entre la interacción del usuario, la coordinación de procesos, la lógica del dominio y el almacenamiento de datos.
 
@@ -1743,13 +1830,17 @@ El diagrama de componentes de Gestión de Contacto de Postulación muestra cómo
 
 ##### **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
 
-![][image47]
+<p align="center">
+  <img src="Images/51.jpg" alt="imagen" />
+</p>
 
 El diagrama de clases del Domain Layer de Gestión de Contacto de Postulación modela los principales elementos de negocio que intervienen en la comunicación entre empresa y postulante. La entidad ContactoPostulacion representa la interacción específica dentro de una postulación, mientras que el value object Feedback encapsula de manera inmutable el mensaje enviado por la empresa (ya sea de aceptación, rechazo o informativo). El agregado ContactoAggregate actúa como punto de entrada para garantizar la consistencia en el procesamiento de feedback y la actualización del estado de la postulación. Finalmente, la interfaz ContactoRepository define las operaciones necesarias para persistir y recuperar contactos asociados a postulaciones, desacoplando la lógica de dominio de la infraestructura de almacenamiento.
 
 ##### **2.6.2.6.2. Bounded Context Database Design Diagram**
 
-![][image48]
+<p align="center">
+  <img src="Images/52.jpg" alt="imagen" />
+</p>
 
 El diagrama de diseño de base de datos del Bounded Context: Gestión de Contacto de Postulación define dos tablas principales: ContactoPostulacion, que almacena los datos de cada interacción entre empresa y postulante (incluyendo identificadores, fecha y tipo de mensaje), y Feedback, que guarda los mensajes enviados con su tipo, motivo de rechazo y contenido textual. La relación entre ambas es de uno a muchos, ya que un contacto puede generar múltiples feedbacks asociados. Este diseño permite mantener un historial claro y estructurado de las comunicaciones, asegurando integridad referencial mediante la clave foránea contacto\_id.
 
@@ -1823,7 +1914,9 @@ Métodos: guardar(metricaAggregate), obtenerPorPostulante(perfilId).
 
 #### **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
-![][image49]
+<p align="center">
+  <img src="Images/53.jpg" alt="imagen" />
+</p>
 
 Este diagrama C4 a nivel de componentes muestra cómo funciona el Bounded Context de Gestión de Métricas dentro de la plataforma. El Postulante interactúa a través del MetricaController, que expone endpoints REST para consultar sus indicadores, logros o solicitar un recálculo. Estas solicitudes son atendidas por diferentes Application Services como RecalcularMetricasHandler, ConsultarResumenMetricasHandler y ListarLogrosHandler, que orquestan la lógica del dominio. A su vez, el contexto consume eventos externos de Gestión de Postulación mediante Event Handlers (OnPostulacionCreadaHandler, OnEstadoPostulacionActualizadoHandler y OnPostulacionEliminadaHandler) para actualizar los contadores y logros. Toda la lógica de negocio se concentra en el MetricaAggregate, que coordina la entidad MetricaRegistro y el value object Logro. Finalmente, el agregado se persiste a través de la interfaz MetricaRepository, implementada por MetricaRepositoryImpl, que se comunica con una base de datos MySQL donde se almacenan las métricas y logros de cada postulante.
 
@@ -1831,13 +1924,17 @@ Este diagrama C4 a nivel de componentes muestra cómo funciona el Bounded Contex
 
 ##### **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
 
-![][image50]
+<p align="center">
+  <img src="Images/54.jpg" alt="imagen" />
+</p>
 
 Este diagrama UML de clases representa el Domain Layer del Bounded Context de Gestión de Métricas. En el centro se encuentra el MetricaAggregate, que actúa como Aggregate Root y garantiza la consistencia del dominio, al orquestar tanto la entidad principal como los logros alcanzados. El agregado se compone de una MetricaRegistro (Entity), que almacena los contadores clave de un postulante (total de postulaciones, entrevistas, ofertas exitosas, rechazos y la tasa de éxito), e incluye métodos para incrementar cada métrica y recalcular la tasa. Además, el agregado puede contener múltiples instancias del Logro (Value Object), que encapsula hitos de gamificación alcanzados al cumplir determinados umbrales (por ejemplo, cierto número de postulaciones o entrevistas). Los logros no tienen identidad propia fuera de este agregado y solo se validan en función de los totales. Finalmente, la interfaz MetricaRepository (Repository) define las operaciones de persistencia necesarias para guardar y recuperar métricas, manteniendo al dominio desacoplado de la infraestructura. En conjunto, este diseño asegura que las métricas de cada postulante se actualicen de forma coherente, que los logros se evalúen automáticamente y que los datos puedan persistirse sin afectar la lógica central del negocio.
 
 ##### **2.6.3.6.2. Bounded Context Database Design Diagram**
 
-![][image51]
+<p align="center">
+  <img src="Images/55.jpg" alt="imagen" />
+</p>
 
 Este diagrama muestra el diseño de la base de datos para el Bounded Context de Gestión de Métricas. La tabla central es metrica\_registro, que guarda los indicadores acumulados de cada postulante: número total de postulaciones, entrevistas, éxitos logrados (ofertas), rechazos y la tasa de éxito expresada en porcentaje. Esta tabla utiliza como clave primaria el campo perfil\_id, que es además una clave foránea que referencia al identificador de usuario proveniente del Bounded Context de Gestión de Perfil, garantizando la coherencia entre el perfil y sus métricas.
 
@@ -1991,17 +2088,29 @@ eliminarArchivo(ruta)
 
 #### **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
 
-![][image52]
+<p align="center">
+  <img src="Images/56.jpg" alt="imagen" />
+</p>
+
+Este diagrama C4 a nivel de componentes muestra cómo funciona el Bounded Context de Gestión del Perfil dentro de la plataforma. El usuario interactúa mediante el PerfilController, que expone endpoints REST para crear, actualizar o consultar un perfil. Estas operaciones son gestionadas en la capa de aplicación por servicios como CrearPerfilHandler y ActualizarPerfilHandler, que orquestan la lógica de negocio. La capa de dominio concentra las reglas y validaciones en el agregado Perfil, que incluye el value object Preferencia y políticas como PerfilPolicy. La persistencia se realiza a través de PerfilRepository, implementado por PerfilRepositoryImpl, que comunica los datos hacia una base de datos MySQL. Además, servicios externos como NotificacionService y AlmacenamientoService permiten enviar alertas y gestionar fotos o logos de los perfiles.
 
 #### **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
 
 ##### **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
 
-![][image53]
+<p align="center">
+  <img src="Images/57.jpg" alt="imagen" />
+</p>
+
+Este diagrama de clases de la capa de dominio muestra la estructura central del Bounded Context de Gestión del Perfil. El agregado raíz Perfil orquesta los datos principales del postulante o empresa, garantizando la consistencia de la información. Dentro del agregado, el value object Preferencia representa configuraciones personales como intereses o notificaciones, mientras que PerfilPolicy define las reglas de negocio y validaciones aplicables a la creación o modificación de un perfil. Además, el PerfilAggregate actúa como punto de entrada para coordinar actualizaciones de datos y aplicar políticas, asegurando que los cambios se realicen de manera controlada y sin inconsistencias.
 
 ##### **2.6.4.6.2. Bounded Context Database Design Diagram**
 
-![][image54]
+<p align="center">
+  <img src="Images/58.jpg" alt="imagen" />
+</p>
+
+Este diagrama de diseño de base de datos refleja cómo se almacenan los datos del Bounded Context de Gestión del Perfil. La tabla principal Perfil contiene los atributos clave del postulante o empresa (como nombre, correo, datos de contacto y tipo de perfil). A ella se relaciona la tabla Preferencia, que almacena configuraciones asociadas a cada perfil, incluyendo intereses y opciones de notificación. Ambas tablas están enlazadas mediante una relación de clave foránea, lo que garantiza integridad referencial entre un perfil y sus preferencias. Este diseño facilita consultas rápidas sobre la información personal y las configuraciones del usuario, manteniendo una estructura clara y normalizada.
 
 # **CONCLUSIONES Y RECOMENDACIONES**
 
@@ -2036,6 +2145,7 @@ eliminarArchivo(ruta)
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
