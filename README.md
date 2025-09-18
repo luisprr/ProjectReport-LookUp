@@ -224,7 +224,7 @@ Ser la startup referente en Latinoamérica en el desarrollo de soluciones tecnol
 | :---- | ----- | :---: |
 |  | Soy estudiante de Ingeniería de Software en Perú, con formación sólida en el desarrollo de proyectos centrados en datos, inteligencia artificial y aprendizaje automático. Mi enfoque combina excelencia académica con la aplicación práctica de nuevas tecnologías en data y desarrollo. |  |
 
-| ![Sack][Images/1.jpg] | Cárdenas Concha, Santiago Iván U202311207 | Ingeniería de Software |
+| ![Sack](Images/1.jpg) | Cárdenas Concha, Santiago Iván U202311207 | Ingeniería de Software |
 | :---- | ----- | :---: |
 |  | Mi nombre es Santiago Cárdenas tengo 19 años y soy estudiante de la carrera de ingeniería de software. Soy responsable, amigable, trato de caer bien a la gente que me rodea, y siempre trato de sorprender a las personas. |  |
 
@@ -2036,6 +2036,7 @@ eliminarArchivo(ruta)
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
