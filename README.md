@@ -1766,11 +1766,15 @@ El diagrama se organiza así porque sigue los principios de arquitectura limpia:
   <img src="Images/48.jpg" alt="imagen" />
 </p>
 
+El diagrama de clases representa los principales elementos del dominio de postulación. Se definen las entidades como Postulación y PuestoPostulación, los value objects como EstadoPostulación y Línea de Tiempo, y el aggregate PostulaciónAggregate que garantiza la consistencia entre estado e hitos. Además, el repository abstrae las operaciones de persistencia. Con esta estructura se asegura un modelado centrado en el negocio, con objetos de valor que refuerzan inmutabilidad y entidades que mantienen identidad propia.
+
 ##### **2.6.1.6.2. Bounded Context Database Design Diagram** {#2.6.1.6.2.-bounded-context-database-design-diagram}
 
 <p align="center">
   <img src="Images/49.jpg" alt="imagen" />
 </p>
+
+El diagrama de base de datos transforma los conceptos del dominio en tablas relacionales. La entidad Postulación guarda la información central de cada solicitud, asociada a PuestoPostulación y al candidato. Los estados de postulación se representan como un valor controlado, mientras que la línea de tiempo registra los hitos de la evolución de cada postulación. Este diseño garantiza integridad referencial y permite consultas eficientes para obtener postulaciones por candidato, puesto o estado.
 
 ### **2.6.2. Bounded Context: Gestión de Contacto de Postulación**
 
@@ -2145,6 +2149,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
