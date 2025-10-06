@@ -46,6 +46,27 @@
 | 3 (TB2) |  |  |   |
 | 4 (TF1) |  |  |   |
 
+**OBJETIVOS SMART**
+- Santiago Cárdenas:
+En los próximos 12 meses, me propongo aprobar la certificación MongoDB Certified Developer Associate. Este objetivo se alinea con mi interés por dominar NoSQL, clave para gestionar grandes volúmenes de datos no estructurados en aplicaciones modernas. Al lograrla, podré diseñar esquemas flexibles y escalables, fortaleciendo mi perfil profesional.
+A mediano plazo, esta meta funcionará como base para avanzar hacia la AWS Certified Database – Specialty. Mi plan es apalancar lo aprendido en MongoDB para comprender mejor los distintos paradigmas de bases de datos en la nube de AWS. Con ambas certificaciones, apuntaré a evolucionar de desarrollador a arquitecto de software, con la credibilidad necesaria para diseñar soluciones de datos a gran escala y liderar equipos en entornos cloud.
+
+- Luis Rodríguez:
+Mi objetivo de corto plazo es obtener, dentro de los próximos 12 meses, la Google Cloud Professional Machine Learning Engineer. Esta certificación es estratégica para mi crecimiento, porque consolidará mis fundamentos de IA y su despliegue en la nube. Con ello podré construir modelos y operativizarlos en sistemas escalables y eficientes. En paralelo, usaré GitHub como vitrina de mis avances: documentaré proyectos, explicaré algoritmos y publicaré los modelos desarrollados.
+A largo plazo, aprovecharé esta credencial y el portafolio público como un trampolín hacia roles de mayor impacto. La experiencia ganada en ingeniería de ML me permitirá liderar el desarrollo de productos impulsados por IA, orientando equipos para entregar soluciones sólidas y con valor real para las personas. Mi presencia en GitHub facilitará el networking profesional y el fortalecimiento de mi marca personal en el ámbito de la IA aplicada.
+
+- Elvia Rodríguez:
+Mi meta principal para los próximos 12 meses es certificarme como Certified UX Professional (UXC) por Nielsen Norman Group. Es un paso crucial para afianzar principios de UX y llevarlos a la práctica con rigor. Busco no solo crear interfaces atractivas y coherentes, sino también sustentar decisiones de diseño con evidencia y buenas prácticas. Al mismo tiempo, utilizaré Instagram para compartir logros y progresos: publicaré hitos de la certificación, aprendizajes sobre metodologías y muestras de proyectos en los que participo.
+A futuro, esta certificación y mi presencia digital serán la base para roles con mayor responsabilidad. La credibilidad ganada en UI/UX me habilitará para liderar la creación de productos digitales, guiando equipos que entreguen experiencias que resuelvan problemas reales y generen valor. Mi portafolio visual en Instagram me ayudará a conectar con otros profesionales y a consolidar una marca personal consistente en diseño de interfaces.
+
+- Gustavo Román:
+En el plazo de un año, me propongo conseguir la certificación Professional Scrum Master. Este objetivo es clave para mi desarrollo, pues me permitirá dominar Scrum, un marco esencial en el desarrollo de software actual. Con ese conocimiento podré aplicar prácticas ágiles de forma correcta y actuar como facilitador del equipo, asegurando procesos fluidos y foco en el valor.
+A más largo plazo, usaré esta certificación como escalón hacia posiciones de mayor liderazgo. La experiencia y credibilidad como Scrum Master me ayudarán a evolucionar hacia un líder técnico capaz de guiar equipos tanto desde la técnica como desde la gestión, impulsando entregas constantes, eficientes y alineadas con los objetivos del negocio.
+
+- Santiago Suárez:
+Mi objetivo de corto plazo es obtener en los próximos 12 meses la Google Cloud Professional Cloud Security Engineer. Esta decisión es fundamental para mi carrera, ya que me permitirá dominar los principios de seguridad en la nube, especialmente relevantes en el sector financiero, donde la protección de datos sensibles y el cumplimiento regulatorio son críticos. Con esta base, podré diseñar sistemas seguros y comprender las transacciones y datos financieros desde la óptica de la integridad, convirtiéndome en un profesional confiable y de alto valor.
+A largo plazo, esta especialización en seguridad cloud me permitirá asumir un papel central en la creación de productos financieros robustos y confiables, ganando la credibilidad necesaria para orientar equipos y contribuir directamente al impacto del negocio.
+
 **CONTENT** 
 
 [Capítulo I: Presentación](#capítulo-i-presentación)  
@@ -1785,6 +1806,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
