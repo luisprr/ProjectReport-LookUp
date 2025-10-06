@@ -1033,7 +1033,10 @@ Se presentarán los user persona por cada segmento objetivo. Estos son arquetipo
 | **Description** |  |  |  |
 | Como visitante de la landing page, quiere percibir un mensaje central claro y motivador en la pantalla inicial para comprender de inmediato el propósito de LookUp. |  |  |  |
 | **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Mensaje principal visible   Dado que un visitante accede a la landing page,   Cuando se carga la sección inicial,   Entonces se muestra un enunciado principal y un subtítulo que comunican el propósito de LookUp. |  |  |  |
+| \- Escenario 1: Mensaje principal visible
+Dado que un visitante accede a la landing page,
+Cuando se carga la sección inicial,
+Entonces se muestra un enunciado principal y un subtítulo que comunican el propósito de LookUp. |  |  |  |
 
  
 
@@ -2111,6 +2114,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
