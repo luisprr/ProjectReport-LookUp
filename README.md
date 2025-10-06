@@ -1026,372 +1026,43 @@ Se presentarán los user persona por cada segmento objetivo. Estos son arquetipo
 
 ### **2.4.2. User Stories** {#2.4.2.-user-stories}
 
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US01 | Visitante | 1 | EP01 |
-| **Title** | Visualización del mensaje principal en la página de inicio |  |  |
-| **Description** |  |  |  |
-| Como visitante de la landing page, quiere percibir un mensaje central claro y motivador en la pantalla inicial para comprender de inmediato el propósito de LookUp. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Mensaje principal visible
-Dado que un visitante accede a la landing page,
-Cuando se carga la sección inicial,
-Entonces se muestra un enunciado principal y un subtítulo que comunican el propósito de LookUp. |  |  |  |
+| Epic / Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
+|------------------|--------|-------------|---------------------------|----------------------------|
+| US01 | Visualización del mensaje principal en la página de inicio | Como visitante de la landing page, quiere percibir un mensaje central claro y motivador en la pantalla inicial para comprender de inmediato el propósito de LookUp. | Escenario 1: Mensaje principal visible. Dado que un visitante accede a la landing page, Cuando se carga la sección inicial, Entonces se muestra un enunciado principal y un subtítulo que comunican el propósito de LookUp. | EP01 |
+| US02 | Acceso al menú de navegación en distintos tamaños de pantalla | Como visitante, quiere acceder al menú de navegación desde cualquier dispositivo para desplazarse por el sitio sin depender del tamaño de pantalla. | Escenario 1: Acceso en entorno de escritorio. Dado que un visitante utiliza un computador de escritorio, Cuando visualiza la navegación del sitio, Entonces puede acceder a las opciones principales del menú.<br><br>Escenario 2: Acceso en dispositivo móvil o tablet. Dado que un visitante utiliza un dispositivo móvil o una tablet, Cuando activa el control de apertura del menú, Entonces se presentan las opciones de navegación de forma adecuada al espacio disponible. | EP01 |
+| US03 | Exhibición de beneficios clave en la landing page | Como visitante, quiere identificar rápidamente los beneficios más relevantes de LookUp para conocer sus principales ventajas. | Escenario 1: Beneficios destacados. Dado que un visitante recorre la landing page, Cuando llega a la sección de beneficios, Entonces se muestran como mínimo cuatro beneficios, cada uno con un identificador y una breve descripción. | EP01 |
+| US04 | Navegación rápida a secciones principales | Como visitante, quiere acceder de manera ágil a las secciones clave desde la navegación para encontrar la información requerida sin demoras. | Escenario 1: Ir a Servicios. Dado que un visitante abre el menú de navegación, Cuando selecciona la opción «Servicios», Entonces queda posicionado en la sección «Servicios» del sitio.<br><br>Escenario 2: Ir a Contacto. Dado que un visitante abre el menú de navegación, Cuando selecciona la opción «Contacto», Entonces se muestra la página «Contacto».<br><br>Escenario 3: Ir a Nosotros. Dado que un visitante abre el menú de navegación, Cuando selecciona la opción «Nosotros», Entonces se muestra la página «Nosotros». | EP01 |
+| US05 | Acceso a la sección «Sobre Nosotros» | Como visitante, quiere ingresar a la sección «Sobre Nosotros» para conocer la historia, misión y propósito de LookUp. | Escenario 1: Contenido de «Sobre Nosotros» visible. Dado que un visitante selecciona la opción «Nosotros», Cuando se abre la ruta correspondiente, Entonces se despliega contenido verificable sobre la organización y LookUp, acompañado de recursos informativos. | EP01 |
+| US06 | Acceso a políticas de privacidad y términos de servicio | Como visitante, desea consultar las políticas de privacidad y los términos de servicio para comprender las condiciones legales de uso del sitio. | Escenario 1: Enlaces legales operativos. Dado que un visitante se encuentra en el área de información legal del sitio, Cuando solicita políticas de privacidad o términos de servicio, Entonces se muestra el contenido vigente de cada documento. | EP01 |
+| US07 | Acceso a redes sociales desde el pie de página | Como visitante, quiere acceder a las redes sociales oficiales de LookUp desde el pie de página para mantenerse informado sobre novedades. | Escenario 1: Vínculos a redes sociales disponibles. Dado que un visitante revisa el área de redes sociales en el pie de página, Cuando explora las opciones disponibles, Entonces encuentra enlaces operativos hacia YouTube, Instagram y X (Twitter). | EP01 |
+| US08 | Galería de contenidos informativos en la landing page | Como visitante, desea visualizar una galería interactiva de contenidos informativos para conocer de forma atractiva las funciones principales de LookUp. | Escenario 1: Galería visible. Dado que un visitante llega a la zona informativa de servicios, Cuando se carga el contenido de dicha zona, Entonces se presenta una galería con elementos informativos que combinan imágenes y descripciones.<br><br>Escenario 2: Navegación dentro de la galería. Dado que un visitante interactúa con los controles de la galería, Cuando utiliza las acciones de avance o retroceso, Entonces puede desplazarse entre los diferentes elementos de la galería. | EP01 |
+| US09 | Registro con correo y contraseña | Como postulante, quiero registrarme con mi correo y una contraseña para empezar a organizar mis postulaciones desde mi cuenta. | Escenario 1: Registro exitoso. Dado que el postulante ingresa un correo no registrado y una contraseña válida, Cuando solicita crear la cuenta, Entonces el sistema crea la cuenta y lo autentica.<br><br>Escenario 2: Correo ya registrado. Dado que el postulante ingresa un correo existente, Cuando solicita crear la cuenta, Entonces el sistema rechaza el registro e informa que el correo ya está registrado.<br><br>Escenario 3: Contraseña inválida. Dado que el postulante ingresa una contraseña que no cumple las políticas definidas, Cuando solicita crear la cuenta, Entonces el sistema rechaza el registro e informa que debe cumplir los requisitos de seguridad. | EP02 |
+| US10 | Inicio de sesión seguro | Como postulante, quiero iniciar sesión de forma segura para acceder a mis postulaciones y datos personales. | Escenario 1: Acceso válido. Dado que el postulante posee credenciales válidas, Cuando solicita iniciar sesión, Entonces el sistema permite el acceso a su cuenta.<br><br>Escenario 2: Credenciales inválidas. Dado que el postulante ingresa credenciales incorrectas, Cuando solicita iniciar sesión, Entonces el sistema deniega el acceso e informa que las credenciales no son válidas.<br><br>Escenario 3: Sesión activa. Dado que el postulante mantiene la sesión abierta, Cuando accede nuevamente a recursos protegidos durante el periodo de validez, Entonces el sistema reconoce la sesión activa sin requerir nuevas credenciales. | EP02 |
+| US11 | Recuperación de contraseña | Como postulante, quiero recuperar mi contraseña para restablecer el acceso a mi cuenta en caso de olvido. | Escenario 1: Solicitud válida. Dado que el postulante ingresa un correo registrado, Cuando solicita la recuperación de contraseña, Entonces el sistema envía instrucciones de restablecimiento.<br><br>Escenario 2: Correo no registrado. Dado que el postulante ingresa un correo no asociado a una cuenta, Cuando solicita la recuperación de contraseña, Entonces el sistema rechaza la solicitud sin revelar datos de usuarios.<br><br>Escenario 3: Restablecimiento exitoso. Dado que el postulante sigue las instrucciones de restablecimiento, Cuando define una nueva contraseña válida, Entonces el sistema actualiza la credencial y permite iniciar sesión. | EP02 |
+| US12 | Completar perfil básico del postulante | Como postulante, quiero registrar mis datos básicos y una descripción personal para presentar mi perfil cuando gestione mis postulaciones. | Escenario 1: Guardado de datos obligatorios. Dado que el postulante completa los campos obligatorios (por ejemplo, nombre y datos de contacto), Cuando solicita guardar el perfil, Entonces el sistema guarda la información correctamente.<br><br>Escenario 2: Descripción personalizada. Dado que el postulante redacta una descripción personal, Cuando solicita guardar el perfil, Entonces el sistema almacena la descripción junto con los datos del perfil.<br><br>Escenario 3: Validación de obligatorios. Dado que el postulante deja campos obligatorios vacíos, Cuando solicita guardar el perfil, Entonces el sistema rechaza el guardado e informa que faltan datos requeridos. | EP02 |
+| US13 | Cierre de sesión desde el móvil | Como postulante, quiero cerrar sesión desde mi dispositivo móvil para proteger el acceso a mi cuenta. | Escenario 1: Cierre exitoso. Dado que el postulante cuenta con una sesión activa, Cuando solicita cerrar sesión, Entonces el sistema invalida la sesión actual.<br><br>Escenario 2: Acceso a recursos protegidos. Dado que la sesión ha sido cerrada, Cuando el postulante intenta acceder a recursos protegidos, Entonces el sistema solicita autenticación nuevamente. | EP02 |
+| US14 | Crear nueva postulación | Como postulante, quiere postular a un puesto disponible para registrar el proceso en el sistema y dar seguimiento. | Escenario 1: Creación exitosa. Dado que el postulante selecciona un puesto disponible y cuenta con la información mínima del proceso, Cuando confirma la postulación, Entonces el sistema registra la postulación con estado inicial 'pendiente' y fecha automática.<br><br>Escenario 2: Datos insuficientes. Dado que faltan datos mínimos del puesto (por ejemplo, empresa o título del cargo), Cuando el postulante intenta registrar la postulación, Entonces el sistema impide el registro e informa que faltan datos requeridos.<br><br>Escenario 3: Evitar duplicados. Dado que existe una postulación registrada para el mismo puesto en el mismo día, Cuando el postulante intenta crear otra igual, Entonces el sistema evita la duplicidad y mantiene un único registro. | EP03 |
+| US15 | Registrar fecha de postulación de forma automática | Como postulante, quiero que la fecha y la hora de la postulación se registren automáticamente para mantener un historial preciso. | Escenario 1: Registro automático. Dado que el postulante confirma una nueva postulación, Cuando el sistema crea el registro, Entonces el sistema asigna automáticamente la fecha y hora actuales a la postulación.<br><br>Escenario 2: Consulta de fecha. Dado que la postulación posee una fecha registrada, Cuando el postulante consulta los detalles del proceso, Entonces el sistema muestra la fecha y hora de registro de la postulación. | EP03 |
+| US16 | Actualizar estado de postulación según revisión del reclutador | Como postulante, quiero que el estado de mi postulación se actualice cuando el reclutador realice cambios para conocer el avance real del proceso. | Escenario 1: Estado actualizado. Dado que el reclutador modifica el estado en el proceso de selección, Cuando el sistema sincroniza la información, Entonces el sistema refleja el nuevo estado en la postulación del usuario.<br><br>Escenario 2: Consulta de estado vigente. Dado que la postulación tiene un estado actualizado, Cuando el postulante consulta su lista o detalle de postulaciones, Entonces el sistema muestra el estado vigente. | EP03 |
+| US17 | Eliminar postulación registrada | Como postulante, quiero eliminar una postulación registrada para mantener mi historial limpio y mis métricas consistentes. | Escenario 1: Eliminación exitosa. Dado que existe una postulación registrada, Cuando el postulante solicita eliminarla, Entonces el sistema elimina el registro y actualiza las métricas relacionadas.<br><br>Escenario 2: Postulación inexistente. Dado que no existe una postulación con el identificador indicado, Cuando el postulante intenta eliminarla, Entonces el sistema informa que no se encontró el registro. | EP03 |
+| US18 | Subir documentos al perfil | Como postulante, quiero subir mis documentos principales (por ejemplo, CV, carta de presentación, certificados) a mi perfil para reutilizarlos en mis postulaciones. | Escenario 1: Carga válida. Dado que el postulante selecciona un documento en un formato permitido, Cuando solicita subir el documento al perfil, Entonces el sistema guarda el documento asociado al perfil.<br><br>Escenario 2: Formato no permitido. Dado que el archivo no cumple con los formatos permitidos por la política, Cuando el postulante intenta subirlo, Entonces el sistema rechaza la carga e informa que el formato no es válido.<br><br>Escenario 3: Supera tamaño permitido. Dado que el archivo excede el tamaño máximo definido por la política, Cuando el postulante intenta subirlo, Entonces el sistema rechaza la carga e informa que supera el tamaño permitido. | EP04 |
+| US19 | Eliminar documento del perfil | Como postulante, quiero eliminar un documento de mi perfil para mantener actualizada mi documentación disponible. | Escenario 1: Eliminación exitosa. Dado que el documento existe en el perfil del postulante, Cuando solicita eliminarlo, Entonces el sistema elimina el documento y este deja de estar disponible para nuevas postulaciones.<br><br>Escenario 2: Documento inexistente. Dado que el documento no está asociado al perfil, Cuando se solicita su eliminación, Entonces el sistema informa que no se encontró el documento. | EP04 |
+| US20 | Visualizar documentos guardados en el perfil | Como postulante, quiero visualizar los documentos guardados en mi perfil para seleccionar los que necesite en mis postulaciones. | Escenario 1: Listado disponible. Dado que el perfil tiene documentos cargados, Cuando el postulante solicita visualizar los documentos, Entonces el sistema lista los documentos asociados al perfil.<br><br>Escenario 2: Sin documentos. Dado que el perfil no tiene documentos cargados, Cuando el postulante solicita visualizar los documentos, Entonces el sistema indica que no hay documentos disponibles. | EP04 |
+| US21 | Contador de postulaciones enviadas | Como postulante, quiero ver el número total de postulaciones enviadas para entender el volumen de mi búsqueda. | Escenario 1: Incremento por creación. Dado que el postulante crea una nueva postulación, Cuando el sistema confirma el registro, Entonces el contador de postulaciones enviadas incrementa en uno.<br><br>Escenario 2: Ajuste por eliminación. Dado que el postulante elimina una postulación, Cuando el sistema confirma la eliminación, Entonces el contador de postulaciones enviadas decrementa en uno. | EP05 |
+| US22 | Contador de entrevistas obtenidas | Como postulante, quiero ver cuántas entrevistas obtengo para evaluar mi efectividad. | Escenario 1: Incremento al ser contactado. Dado que una postulación cambia a estado 'contactado', Cuando el sistema actualiza el estado, Entonces el contador de entrevistas obtenidas incrementa en uno.<br><br>Escenario 2: Ajuste por cambio de estado. Dado que 'contactado' se corrige a otro estado no asociado a entrevista, Cuando el sistema actualiza el estado, Entonces el contador de entrevistas obtenidas decrementa en uno. | EP05 |
+| US23 | Contador de ofertas alcanzadas | Como postulante, quiero ver cuántas ofertas alcanzo para medir resultados concretos. | Escenario 1: Incremento por oferta. Dado que una postulación cambia a estado 'oferta', Cuando el sistema actualiza el estado, Entonces el contador de ofertas alcanzadas incrementa en uno.<br><br>Escenario 2: Ajuste por cambio posterior. Dado que una postulación previamente marcada como 'oferta' cambia a otro estado, Cuando el sistema actualiza el estado, Entonces el contador de ofertas alcanzadas decrementa en uno. | EP05 |
+| US24 | Contador de rechazos acumulados | Como postulante, quiero ver cuántos rechazos acumulo para analizar mis resultados y ajustar mi estrategia. | Escenario 1: Incremento por rechazo. Dado que una postulación cambia a estado 'rechazo', Cuando el sistema actualiza el estado, Entonces el contador de rechazos acumulados incrementa en uno.<br><br>Escenario 2: Ajuste por corrección. Dado que una postulación previamente marcada como 'rechazo' cambia a otro estado, Cuando el sistema actualiza el estado, Entonces el contador de rechazos acumulados decrementa en uno. | EP05 |
+| US25 | Ver historial completo de postulaciones | Como postulante, quiero consultar el historial de todas mis postulaciones para revisar mi recorrido completo. | Escenario 1: Historial disponible. Dado que el postulante tiene postulaciones registradas, Cuando solicita ver el historial, Entonces el sistema lista todas las postulaciones registradas con sus estados y fechas asociadas.<br><br>Escenario 2: Historial vacío. Dado que el postulante no tiene postulaciones registradas, Cuando solicita ver el historial, Entonces el sistema indica que no existen registros. | EP06 |
+| US26 | Buscar postulaciones por empresa o puesto | Como postulante, quiero buscar postulaciones por empresa o puesto para encontrar rápidamente procesos específicos. | Escenario 1: Búsqueda con resultados. Dado que existen postulaciones que coinciden con el término de búsqueda, Cuando el postulante ejecuta la búsqueda, Entonces el sistema devuelve las postulaciones coincidentes.<br><br>Escenario 2: Búsqueda sin resultados. Dado que no existen coincidencias para el término ingresado, Cuando el postulante ejecuta la búsqueda, Entonces el sistema devuelve una lista vacía. | EP06 |
+| US27 | Filtrar por estado de postulación | Como postulante, quiero filtrar mis postulaciones por estado para concentrarme en procesos específicos. | Escenario 1: Filtrado exitoso. Dado que existen postulaciones con el estado seleccionado, Cuando el postulante aplica el filtro por estado, Entonces el sistema muestra únicamente las postulaciones con ese estado.<br><br>Escenario 2: Filtrado sin resultados. Dado que no existen postulaciones con el estado seleccionado, Cuando el postulante aplica el filtro por estado, Entonces el sistema muestra una lista vacía. | EP06 |
+| US28 | Ordenar postulaciones por fecha o resultado | Como postulante, quiero ordenar mis postulaciones por fecha o por resultado para analizar mi progreso con distintos enfoques. | Escenario 1: Orden por fecha. Dado que existen postulaciones con diferentes fechas, Cuando el postulante solicita ordenar por fecha, Entonces el sistema presenta las postulaciones en el orden indicado.<br><br>Escenario 2: Orden por resultado. Dado que existen postulaciones con distintos estados, Cuando el postulante solicita ordenar por resultado, Entonces el sistema presenta las postulaciones ordenadas según el estado seleccionado. | EP06 |
+| US29 | Registro de datos de contacto en el perfil | Como postulante, quiero registrar mi correo electrónico y/o número de celular en mi perfil para que los reclutadores puedan contactarme si soy seleccionado. | Escenario 1: Registro exitoso de datos de contacto. Dado que que el postulante ingresa correo o número de celular válidos, Cuando los guarda en su perfil, Entonces el sistema almacena los datos correctamente y quedan asociados al perfil.<br><br>Escenario 2: Validación de datos inválidos. Dado que que el postulante ingresa un correo o número con formato incorrecto, Cuando intenta guardar la información, Entonces el sistema rechaza los datos y solicita un formato válido. | EP07 |
+| US30 | Reclutador contacta al postulante seleccionado | Como postulante, quiero que el reclutador pueda contactarme usando los datos de contacto registrados en mi perfil para avanzar en el proceso de contratación. | Escenario 1: Contacto exitoso. Dado que que el postulante ha registrado datos de contacto válidos, Cuando el reclutador decide avanzar con la contratación, Entonces el reclutador utiliza los datos registrados para comunicarse con el postulante fuera de la aplicación.<br><br>Escenario 2: Falta de datos de contacto. Dado que que el postulante no registra ningún medio de contacto, Cuando el reclutador revisa el perfil, Entonces el reclutador no encuentra cómo comunicarse y el sistema indica que faltan datos. | EP07 |
+| US31 | Interfaz simple y comprensible para todo usuario | Como postulante, quiero contar con una interfaz clara y sencilla para poder entender y utilizar la aplicación sin complicaciones. | Escenario 1: Uso exitoso de la interfaz. Dado que que el postulante accede a la aplicación, Cuando explora las funciones principales, Entonces el sistema presenta opciones comprensibles y fáciles de identificar.<br><br>Escenario 2: Evitar confusión. Dado que que el postulante navega por diferentes secciones, Cuando utiliza la aplicación por primera vez, Entonces el sistema mantiene consistencia en nombres y acciones para reducir dudas. | EP08 |
+| US32 | Estética moderna y profesional que genere seguridad | Como postulante, quiero que la aplicación tenga un diseño visual moderno y profesional para sentir confianza en la plataforma. | Escenario 1: Confianza visual. Dado que que el postulante abre la aplicación, Cuando observa la interfaz principal, Entonces el diseño transmite profesionalismo y orden.<br><br>Escenario 2: Aspecto consistente. Dado que que el postulante cambia de sección, Cuando visualiza nuevas pantallas, Entonces el estilo de colores y tipografías se mantiene coherente. | EP08 |
+| US33 | Organización visual clara de datos y procesos | Como postulante, quiero que la información esté organizada visualmente para poder identificar fácilmente mis postulaciones y métricas. | Escenario 1: Visualización clara. Dado que que el postulante revisa sus postulaciones, Cuando abre el historial de procesos, Entonces el sistema presenta la información de forma clara y ordenada.<br><br>Escenario 2: Métricas organizadas. Dado que que el postulante consulta sus estadísticas, Cuando visualiza el panel de métricas, Entonces el sistema muestra los datos agrupados y fáciles de interpretar. | EP08 |
+| US34 | Fluidez y consistencia en la navegación entre pantallas | Como postulante, quiero que la navegación entre pantallas sea fluida y coherente para mantener una experiencia continua y sin interrupciones. | Escenario 1: Navegación fluida. Dado que que el postulante cambia de sección, Cuando pasa de una pantalla a otra, Entonces el sistema responde de forma rápida y sin retrasos.<br><br>Escenario 2: Consistencia en navegación. Dado que que el postulante explora diferentes apartados, Cuando utiliza los menús de navegación, Entonces el sistema mantiene el mismo estilo y ubicación de opciones en todas las pantallas. | EP08 |
 
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US02 | Visitante | 1 | EP01 |
-| **Title** | Acceso al menú de navegación en distintos tamaños de pantalla |  |  |
-| **Description** |  |  |  |
-| Como visitante, quiere acceder al menú de navegación desde cualquier dispositivo para desplazarse por el sitio sin depender del tamaño de pantalla. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Acceso en entorno de escritorio   Dado que un visitante utiliza un computador de escritorio,   Cuando visualiza la navegación del sitio,   Entonces puede acceder a las opciones principales del menú. \- Escenario 2: Acceso en dispositivo móvil o tablet   Dado que un visitante utiliza un dispositivo móvil o una tablet,   Cuando activa el control de apertura del menú,   Entonces se presentan las opciones de navegación de forma adecuada al espacio disponible. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US03 | Visitante | 1 | EP01 |
-| **Title** | Exhibición de beneficios clave en la landing page |  |  |
-| **Description** |  |  |  |
-| Como visitante, quiere identificar rápidamente los beneficios más relevantes de LookUp para conocer sus principales ventajas. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Beneficios destacados   Dado que un visitante recorre la landing page,   Cuando llega a la sección de beneficios,   Entonces se muestran como mínimo cuatro beneficios, cada uno con un identificador y una breve descripción. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US04 | Visitante | 1 | EP01 |
-| **Title** | Navegación rápida a secciones principales |  |  |
-| **Description** |  |  |  |
-| Como visitante, quiere acceder de manera ágil a las secciones clave desde la navegación para encontrar la información requerida sin demoras. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Ir a Servicios   Dado que un visitante abre el menú de navegación,   Cuando selecciona la opción «Servicios»,   Entonces queda posicionado en la sección «Servicios» del sitio. \- Escenario 2: Ir a Contacto   Dado que un visitante abre el menú de navegación,   Cuando selecciona la opción «Contacto»,   Entonces se muestra la página «Contacto». \- Escenario 3: Ir a Nosotros   Dado que un visitante abre el menú de navegación,   Cuando selecciona la opción «Nosotros»,   Entonces se muestra la página «Nosotros». |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US05 | Visitante | 1 | EP01 |
-| **Title** | Acceso a la sección «Sobre Nosotros» |  |  |
-| **Description** |  |  |  |
-| Como visitante, quiere ingresar a la sección «Sobre Nosotros» para conocer la historia, misión y propósito de LookUp. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Contenido de «Sobre Nosotros» visible   Dado que un visitante selecciona la opción «Nosotros»,   Cuando se abre la ruta correspondiente,   Entonces se despliega contenido verificable sobre la organización y LookUp, acompañado de recursos informativos. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US06 | Visitante | 1 | EP01 |
-| **Title** | Acceso a políticas de privacidad y términos de servicio |  |  |
-| **Description** |  |  |  |
-| Como visitante, desea consultar las políticas de privacidad y los términos de servicio para comprender las condiciones legales de uso del sitio. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Enlaces legales operativos   Dado que un visitante se encuentra en el área de información legal del sitio,   Cuando solicita políticas de privacidad o términos de servicio,   Entonces se muestra el contenido vigente de cada documento. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US07 | Visitante | 1 | EP01 |
-| **Title** | Acceso a redes sociales desde el pie de página |  |  |
-| **Description** |  |  |  |
-| Como visitante, quiere acceder a las redes sociales oficiales de LookUp desde el pie de página para mantenerse informado sobre novedades. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Vínculos a redes sociales disponibles   Dado que un visitante revisa el área de redes sociales en el pie de página,   Cuando explora las opciones disponibles,   Entonces encuentra enlaces operativos hacia YouTube, Instagram y X (Twitter). |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US08 | Visitante | 1 | EP01 |
-| **Title** | Galería de contenidos informativos en la landing page |  |  |
-| **Description** |  |  |  |
-| Como visitante, desea visualizar una galería interactiva de contenidos informativos para conocer de forma atractiva las funciones principales de LookUp. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Galería visible   Dado que un visitante llega a la zona informativa de servicios,   Cuando se carga el contenido de dicha zona,   Entonces se presenta una galería con elementos informativos que combinan imágenes y descripciones. \- Escenario 2: Navegación dentro de la galería   Dado que un visitante interactúa con los controles de la galería,   Cuando utiliza las acciones de avance o retroceso,   Entonces puede desplazarse entre los diferentes elementos de la galería. |  |  |  |
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US09 | Postulante | — | EP02 |
-| **Title** | Registro con correo y contraseña |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero registrarme con mi correo y una contraseña para empezar a organizar mis postulaciones desde mi cuenta. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Registro exitoso   Dado que el postulante ingresa un correo no registrado y una contraseña válida,   Cuando solicita crear la cuenta,   Entonces el sistema crea la cuenta y lo autentica. \- Escenario 2: Correo ya registrado   Dado que el postulante ingresa un correo existente,   Cuando solicita crear la cuenta,   Entonces el sistema rechaza el registro e informa que el correo ya está registrado. \- Escenario 3: Contraseña inválida   Dado que el postulante ingresa una contraseña que no cumple las políticas definidas,   Cuando solicita crear la cuenta,   Entonces el sistema rechaza el registro e informa que debe cumplir los requisitos de seguridad. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US10 | Postulante | — | EP02 |
-| **Title** | Inicio de sesión seguro |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero iniciar sesión de forma segura para acceder a mis postulaciones y datos personales. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Acceso válido   Dado que el postulante posee credenciales válidas,   Cuando solicita iniciar sesión,   Entonces el sistema permite el acceso a su cuenta. \- Escenario 2: Credenciales inválidas   Dado que el postulante ingresa credenciales incorrectas,   Cuando solicita iniciar sesión,   Entonces el sistema deniega el acceso e informa que las credenciales no son válidas. \- Escenario 3: Sesión activa   Dado que el postulante mantiene la sesión abierta,   Cuando accede nuevamente a recursos protegidos durante el periodo de validez,   Entonces el sistema reconoce la sesión activa sin requerir nuevas credenciales. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US11 | Postulante | — | EP02 |
-| **Title** | Recuperación de contraseña |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero recuperar mi contraseña para restablecer el acceso a mi cuenta en caso de olvido. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Solicitud válida   Dado que el postulante ingresa un correo registrado,   Cuando solicita la recuperación de contraseña,   Entonces el sistema envía instrucciones de restablecimiento. \- Escenario 2: Correo no registrado   Dado que el postulante ingresa un correo no asociado a una cuenta,   Cuando solicita la recuperación de contraseña,   Entonces el sistema rechaza la solicitud sin revelar datos de usuarios. \- Escenario 3: Restablecimiento exitoso   Dado que el postulante sigue las instrucciones de restablecimiento,   Cuando define una nueva contraseña válida,   Entonces el sistema actualiza la credencial y permite iniciar sesión. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US12 | Postulante | — | EP02 |
-| **Title** | Completar perfil básico del postulante |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero registrar mis datos básicos y una descripción personal para presentar mi perfil cuando gestione mis postulaciones. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Guardado de datos obligatorios   Dado que el postulante completa los campos obligatorios (por ejemplo, nombre y datos de contacto),   Cuando solicita guardar el perfil,   Entonces el sistema guarda la información correctamente. \- Escenario 2: Descripción personalizada   Dado que el postulante redacta una descripción personal,   Cuando solicita guardar el perfil,   Entonces el sistema almacena la descripción junto con los datos del perfil. \- Escenario 3: Validación de obligatorios   Dado que el postulante deja campos obligatorios vacíos,   Cuando solicita guardar el perfil,   Entonces el sistema rechaza el guardado e informa que faltan datos requeridos. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US13 | Postulante | — | EP02 |
-| **Title** | Cierre de sesión desde el móvil |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero cerrar sesión desde mi dispositivo móvil para proteger el acceso a mi cuenta. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Cierre exitoso   Dado que el postulante cuenta con una sesión activa,   Cuando solicita cerrar sesión,   Entonces el sistema invalida la sesión actual. \- Escenario 2: Acceso a recursos protegidos   Dado que la sesión ha sido cerrada,   Cuando el postulante intenta acceder a recursos protegidos,   Entonces el sistema solicita autenticación nuevamente. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US14 | Postulante | — | EP03 |
-| **Title** | Crear nueva postulación |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiere postular a un puesto disponible para registrar el proceso en el sistema y dar seguimiento. |  |  |  |
-| Acceptance **Criteria** |  |  |  |
-| \- Escenario 1: Creación exitosa   Dado que el postulante selecciona un puesto disponible y cuenta con la información mínima del proceso,   Cuando confirma la postulación,   Entonces el sistema registra la postulación con estado inicial 'pendiente' y fecha automática. \- Escenario 2: Datos insuficientes   Dado que faltan datos mínimos del puesto (por ejemplo, empresa o título del cargo),   Cuando el postulante intenta registrar la postulación,   Entonces el sistema impide el registro e informa que faltan datos requeridos. \- Escenario 3: Evitar duplicados   Dado que existe una postulación registrada para el mismo puesto en el mismo día,   Cuando el postulante intenta crear otra igual,   Entonces el sistema evita la duplicidad y mantiene un único registro. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US15 | Postulante | — | EP03 |
-| **Title** | Registrar fecha de postulación de forma automática |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero que la fecha y la hora de la postulación se registren automáticamente para mantener un historial preciso. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Registro automático   Dado que el postulante confirma una nueva postulación,   Cuando el sistema crea el registro,   Entonces el sistema asigna automáticamente la fecha y hora actuales a la postulación. \- Escenario 2: Consulta de fecha   Dado que la postulación posee una fecha registrada,   Cuando el postulante consulta los detalles del proceso,   Entonces el sistema muestra la fecha y hora de registro de la postulación. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US16 | Postulante | — | EP03 |
-| **Title** | Actualizar estado de postulación según revisión del reclutador |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero que el estado de mi postulación se actualice cuando el reclutador realice cambios para conocer el avance real del proceso. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Estado actualizado   Dado que el reclutador modifica el estado en el proceso de selección,   Cuando el sistema sincroniza la información,   Entonces el sistema refleja el nuevo estado en la postulación del usuario. \- Escenario 2: Consulta de estado vigente   Dado que la postulación tiene un estado actualizado,   Cuando el postulante consulta su lista o detalle de postulaciones,   Entonces el sistema muestra el estado vigente. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US17 | Postulante | — | EP03 |
-| **Title** | Eliminar postulación registrada |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero eliminar una postulación registrada para mantener mi historial limpio y mis métricas consistentes. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Eliminación exitosa   Dado que existe una postulación registrada,   Cuando el postulante solicita eliminarla,   Entonces el sistema elimina el registro y actualiza las métricas relacionadas. \- Escenario 2: Postulación inexistente   Dado que no existe una postulación con el identificador indicado,   Cuando el postulante intenta eliminarla,   Entonces el sistema informa que no se encontró el registro. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US18 | Postulante | — | EP04 |
-| **Title** | Subir documentos al perfil |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero subir mis documentos principales (por ejemplo, CV, carta de presentación, certificados) a mi perfil para reutilizarlos en mis postulaciones. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Carga válida   Dado que el postulante selecciona un documento en un formato permitido,   Cuando solicita subir el documento al perfil,   Entonces el sistema guarda el documento asociado al perfil. \- Escenario 2: Formato no permitido   Dado que el archivo no cumple con los formatos permitidos por la política,   Cuando el postulante intenta subirlo,   Entonces el sistema rechaza la carga e informa que el formato no es válido. \- Escenario 3: Supera tamaño permitido   Dado que el archivo excede el tamaño máximo definido por la política,   Cuando el postulante intenta subirlo,   Entonces el sistema rechaza la carga e informa que supera el tamaño permitido. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US19 | Postulante | — | EP04 |
-| **Title** | Eliminar documento del perfil |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero eliminar un documento de mi perfil para mantener actualizada mi documentación disponible. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Eliminación exitosa   Dado que el documento existe en el perfil del postulante,   Cuando solicita eliminarlo,   Entonces el sistema elimina el documento y este deja de estar disponible para nuevas postulaciones. \- Escenario 2: Documento inexistente   Dado que el documento no está asociado al perfil,   Cuando se solicita su eliminación,   Entonces el sistema informa que no se encontró el documento. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US20 | Postulante | — | EP04 |
-| **Title** | Visualizar documentos guardados en el perfil |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero visualizar los documentos guardados en mi perfil para seleccionar los que necesite en mis postulaciones. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Listado disponible   Dado que el perfil tiene documentos cargados,   Cuando el postulante solicita visualizar los documentos,   Entonces el sistema lista los documentos asociados al perfil. \- Escenario 2: Sin documentos   Dado que el perfil no tiene documentos cargados,   Cuando el postulante solicita visualizar los documentos,   Entonces el sistema indica que no hay documentos disponibles. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US21 | Postulante | — | EP05 |
-| **Title** | Contador de postulaciones enviadas |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero ver el número total de postulaciones enviadas para entender el volumen de mi búsqueda. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Incremento por creación   Dado que el postulante crea una nueva postulación,   Cuando el sistema confirma el registro,   Entonces el contador de postulaciones enviadas incrementa en uno. \- Escenario 2: Ajuste por eliminación   Dado que el postulante elimina una postulación,   Cuando el sistema confirma la eliminación,   Entonces el contador de postulaciones enviadas decrementa en uno. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US22 | Postulante | — | EP05 |
-| **Title** | Contador de entrevistas obtenidas |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero ver cuántas entrevistas obtengo para evaluar mi efectividad. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Incremento al ser contactado   Dado que una postulación cambia a estado 'contactado',   Cuando el sistema actualiza el estado,   Entonces el contador de entrevistas obtenidas incrementa en uno. \- Escenario 2: Ajuste por cambio de estado   Dado que 'contactado' se corrige a otro estado no asociado a entrevista,   Cuando el sistema actualiza el estado,   Entonces el contador de entrevistas obtenidas decrementa en uno. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US23 | Postulante | — | EP05 |
-| **Title** | Contador de ofertas alcanzadas |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero ver cuántas ofertas alcanzo para medir resultados concretos. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Incremento por oferta   Dado que una postulación cambia a estado 'oferta',   Cuando el sistema actualiza el estado,   Entonces el contador de ofertas alcanzadas incrementa en uno. \- Escenario 2: Ajuste por cambio posterior   Dado que una postulación previamente marcada como 'oferta' cambia a otro estado,   Cuando el sistema actualiza el estado,   Entonces el contador de ofertas alcanzadas decrementa en uno. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US24 | Postulante | — | EP05 |
-| **Title** | Contador de rechazos acumulados |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero ver cuántos rechazos acumulo para analizar mis resultados y ajustar mi estrategia. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Incremento por rechazo   Dado que una postulación cambia a estado 'rechazo',   Cuando el sistema actualiza el estado,   Entonces el contador de rechazos acumulados incrementa en uno. \- Escenario 2: Ajuste por corrección   Dado que una postulación previamente marcada como 'rechazo' cambia a otro estado,   Cuando el sistema actualiza el estado,   Entonces el contador de rechazos acumulados decrementa en uno. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US25 | Postulante | — | EP06 |
-| **Title** | Ver historial completo de postulaciones |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero consultar el historial de todas mis postulaciones para revisar mi recorrido completo. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Historial disponible   Dado que el postulante tiene postulaciones registradas,   Cuando solicita ver el historial,   Entonces el sistema lista todas las postulaciones registradas con sus estados y fechas asociadas. \- Escenario 2: Historial vacío   Dado que el postulante no tiene postulaciones registradas,   Cuando solicita ver el historial,   Entonces el sistema indica que no existen registros. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US26 | Postulante | — | EP06 |
-| **Title** | Buscar postulaciones por empresa o puesto |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero buscar postulaciones por empresa o puesto para encontrar rápidamente procesos específicos. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Búsqueda con resultados   Dado que existen postulaciones que coinciden con el término de búsqueda,   Cuando el postulante ejecuta la búsqueda,   Entonces el sistema devuelve las postulaciones coincidentes. \- Escenario 2: Búsqueda sin resultados   Dado que no existen coincidencias para el término ingresado,   Cuando el postulante ejecuta la búsqueda,   Entonces el sistema devuelve una lista vacía. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US27 | Postulante | — | EP06 |
-| **Title** | Filtrar por estado de postulación |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero filtrar mis postulaciones por estado para concentrarme en procesos específicos. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Filtrado exitoso   Dado que existen postulaciones con el estado seleccionado,   Cuando el postulante aplica el filtro por estado,   Entonces el sistema muestra únicamente las postulaciones con ese estado. \- Escenario 2: Filtrado sin resultados   Dado que no existen postulaciones con el estado seleccionado,   Cuando el postulante aplica el filtro por estado,   Entonces el sistema muestra una lista vacía. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US28 | Postulante | — | EP06 |
-| **Title** | Ordenar postulaciones por fecha o resultado |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero ordenar mis postulaciones por fecha o por resultado para analizar mi progreso con distintos enfoques. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Orden por fecha   Dado que existen postulaciones con diferentes fechas,   Cuando el postulante solicita ordenar por fecha,   Entonces el sistema presenta las postulaciones en el orden indicado. \- Escenario 2: Orden por resultado   Dado que existen postulaciones con distintos estados,   Cuando el postulante solicita ordenar por resultado,   Entonces el sistema presenta las postulaciones ordenadas según el estado seleccionado. |  |  |  |
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US29 | Postulante | — | EP07 |
-| **Title** | Registro de datos de contacto en el perfil |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero registrar mi correo electrónico y/o número de celular en mi perfil para que los reclutadores puedan contactarme si soy seleccionado. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Registro exitoso de datos de contacto Dado que que el postulante ingresa correo o número de celular válidos, Cuando los guarda en su perfil, Entonces el sistema almacena los datos correctamente y quedan asociados al perfil.. \- Escenario 2: Validación de datos inválidos Dado que que el postulante ingresa un correo o número con formato incorrecto, Cuando intenta guardar la información, Entonces el sistema rechaza los datos y solicita un formato válido. |  |  |  |
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US30 | Postulante | — | EP07 |
-| **Title** | Reclutador contacta al postulante seleccionado |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero que el reclutador pueda contactarme usando los datos de contacto registrados en mi perfil para avanzar en el proceso de contratación. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Contacto exitoso Dado que que el postulante ha registrado datos de contacto válidos, Cuando el reclutador decide avanzar con la contratación, Entonces el reclutador utiliza los datos registrados para comunicarse con el postulante fuera de la aplicación. \- Escenario 2: Falta de datos de contacto Dado que que el postulante no registra ningún medio de contacto, Cuando el reclutador revisa el perfil, Entonces el reclutador no encuentra cómo comunicarse y el sistema indica que faltan datos. |  |  |  |
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US31 | Postulante | — | EP08 |
-| **Title** | Interfaz simple y comprensible para todo usuario |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero contar con una interfaz clara y sencilla para poder entender y utilizar la aplicación sin complicaciones. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Uso exitoso de la interfaz Dado que que el postulante accede a la aplicación, Cuando explora las funciones principales, Entonces el sistema presenta opciones comprensibles y fáciles de identificar. \- Escenario 2: Evitar confusión Dado que que el postulante navega por diferentes secciones, Cuando utiliza la aplicación por primera vez, Entonces el sistema mantiene consistencia en nombres y acciones para reducir dudas. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US32 | Postulante | — | EP08 |
-| **Title** | Estética moderna y profesional que genere seguridad |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero que la aplicación tenga un diseño visual moderno y profesional para sentir confianza en la plataforma. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Confianza visual Dado que que el postulante abre la aplicación, Cuando observa la interfaz principal, Entonces el diseño transmite profesionalismo y orden.  \- Escenario 2: Aspecto consistente Dado que que el postulante cambia de sección, Cuando visualiza nuevas pantallas, Entonces el estilo de colores y tipografías se mantiene coherente. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US33 | Postulante | — | EP08 |
-| **Title** | Organización visual clara de datos y procesos |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero que la información esté organizada visualmente para poder identificar fácilmente mis postulaciones y métricas. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Visualización clara Dado que que el postulante revisa sus postulaciones, Cuando abre el historial de procesos, Entonces el sistema presenta la información de forma clara y ordenada. \- Escenario 2: Métricas organizadas Dado que que el postulante consulta sus estadísticas, Cuando visualiza el panel de métricas, Entonces el sistema muestra los datos agrupados y fáciles de interpretar. |  |  |  |
-
- 
-
-| Story ID | User | Priority | Epic |
-| ----- | ----- | :---: | :---: |
-| US34 | Postulante | — | EP08 |
-| **Title** | Fluidez y consistencia en la navegación entre pantallas |  |  |
-| **Description** |  |  |  |
-| Como postulante, quiero que la navegación entre pantallas sea fluida y coherente para mantener una experiencia continua y sin interrupciones. |  |  |  |
-| **Acceptance Criteria** |  |  |  |
-| \- Escenario 1: Navegación fluida Dado que que el postulante cambia de sección, Cuando pasa de una pantalla a otra, Entonces el sistema responde de forma rápida y sin retrasos.  \- Escenario 2: Consistencia en navegación Dado que que el postulante explora diferentes apartados, Cuando utiliza los menús de navegación, Entonces el sistema mantiene el mismo estilo y ubicación de opciones en todas las pantallas. |  |  |  |
 
 ### **2.4.3. Impact Mapping** {#2.4.3.-impact-mapping}
 
@@ -2114,6 +1785,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
