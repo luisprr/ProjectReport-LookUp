@@ -178,6 +178,7 @@ A largo plazo, esta especialización en seguridad cloud me permitirá asumir un 
 | Criterio Específico | Acciones realizadas | Conclusiones |
 | ----- | ----- | ----- |
 | Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | Cárdenas Concha, Santiago Iván Suárez Romero, Santiago Suárez Rodríguez Rodríguez, Luis Piero Roman Pajuelo, Luis Gustavo Rodríguez Villa, Elvia Marcela  Avance TB1 | Avance: En conclusión,  es esencial comprender exhaustivamente las necesidades de nuestros usuarios para definir estrategias precisas en el diseño de LookUp. Este análisis e identificación nos ha permitido implementar ideas innovadoras. Durante la presentación, la respuesta positiva de los usuarios confirma que la combinación de planificación y diseño contribuye significativamente. |
+| Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | Cárdenas Concha, Santiago Iván Suárez Romero, Santiago Suárez Rodríguez Rodríguez, Luis Piero Roman Pajuelo, Luis Gustavo Rodríguez Villa, Elvia Marcela  Avance TP | Avance: En conclusión,  es esencial comprender exhaustivamente las necesidades de nuestros usuarios para definir estrategias precisas en el diseño de LookUp. Este análisis e identificación nos ha permitido implementar ideas innovadoras. Durante la presentación, la respuesta positiva de los usuarios confirma que la combinación de planificación y diseño contribuye significativamente. |
 
 # Capítulo I: Presentación {#capítulo-i:-presentación}
 
@@ -1806,6 +1807,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
