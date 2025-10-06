@@ -34,7 +34,7 @@
  
  </div>
  
- <p align="center"><strong>Setiembre, 2025</strong></p>
+ <p align="center"><strong>Octubre, 2025</strong></p>
 
  
 **REGISTRO DE VERSIONES DEL INFORME**
@@ -42,7 +42,7 @@
 | Versión  | Fecha  | Autores | Descripción de Modificación      |
 | :---: | :---: | ----- | ----- |
 | 1 (TB1) | 18/09/2025 | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Luis Gustavo Román Pajuelo, Elvia Marcela Rodríguez Villa, Santiago Manuel Suárez Romero | Desarrollo de capitulos 1 y 2 |
-| 2 (TP1) |  |  |   |
+| 2 (TP1) | 9/10/2025 | Santiago Iván Cárdenas Concha, Luis Piero Rodríguez Rodríguez, Luis Gustavo Román Pajuelo, Elvia Marcela Rodríguez Villa, Santiago Manuel Suárez Romero | Desarrollo de capitulos 3 y 4 |
 | 3 (TB2) |  |  |   |
 | 4 (TF1) |  |  |   |
 
@@ -1806,6 +1806,7 @@ Este diagrama de diseño de base de datos refleja cómo se almacenan los datos d
 * Ongresso. (2023, 27 de septiembre). Labor market in Peru 2023–2024. *Ongresso.* [https://blog.ongresso.com/labor-market-in-peru-2023-2024](https://blog.ongresso.com/labor-market-in-peru-2023-2024)  
 * Redacción Gestión. (2024, 16 de abril). Ocho de cada 10 peruanos confían en las plataformas digitales para conseguir empleo. *Gestión.* [https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/](https://gestion.pe/economia/management-empleo/ocho-de-cada-10-peruanos-confian-en-las-plataformas-digitales-para-conseguir-empleo-procesos-de-seleccion-bumeran-noticia/)  
 * Why candidate abandonment is your job board’s biggest challenge in 2025\. (2024, 18 de diciembre). *UBIO.* [https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025](https://ub.io/blog-posts/why-candidate-abandonment-is-your-job-boards-biggest-challenge-in-2025)
+
 
 
 
